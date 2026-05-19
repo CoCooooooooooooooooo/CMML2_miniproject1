@@ -1,0 +1,854 @@
+complex,protein,catalytic_residue,distance_A,note
+A15-new-ALDH7A1_10_4-guanidinobutyraldehyde,A15,CYS330,27.676,aldehyde detected
+A15-new-ALDH7A1_11_prop-2-enal,A15,CYS330,8.37,aldehyde detected
+A15-new-ALDH7A1_12_prop-2-ynal,A15,CYS330,10.3,aldehyde detected
+A15-new-ALDH7A1_13_(2E)-but-2-enal,A15,CYS330,9.362,aldehyde detected
+A15-new-ALDH7A1_14_trans-2-Hexenal,A15,CYS330,23.138,aldehyde detected
+A15-new-ALDH7A1_15_heptanal,A15,CYS330,5.885,aldehyde detected
+A15-new-ALDH7A1_16_octanaldehyde,A15,CYS330,7.34,aldehyde detected
+A15-new-ALDH7A1_17_nonanal,A15,CYS330,5.98,aldehyde detected
+A15-new-ALDH7A1_18_decanal,A15,CYS330,6.73,aldehyde detected
+A15-new-ALDH7A1_19_dodecanal,A15,CYS330,5.448,aldehyde detected
+A15-new-ALDH7A1_1_formaldehyde,A15,CYS330,2.557,aldehyde detected
+A15-new-ALDH7A1_20_Citral,A15,CYS330,1.936,aldehyde detected
+A15-new-ALDH7A1_22_trans-2-Octenal,A15,CYS330,7.198,aldehyde detected
+A15-new-ALDH7A1_23_4-Hydroxynonenal,A15,CYS330,12.51,aldehyde detected
+A15-new-ALDH7A1_23_4-Hydroxynonenal,A15,CYS330,12.903,aldehyde detected
+A15-new-ALDH7A1_24_Tetradecanal,A15,CYS330,2.058,aldehyde detected
+A15-new-ALDH7A1_25_hexadecanal,A15,CYS330,9.325,aldehyde detected
+A15-new-ALDH7A1_26_trans-2-hexadecenal,A15,CYS330,7.562,aldehyde detected
+A15-new-ALDH7A1_27_Benzaldehyde,A15,CYS330,38.972,aldehyde detected
+A15-new-ALDH7A1_28_Phenylacetaldehyde,A15,CYS330,27.26,aldehyde detected
+A15-new-ALDH7A1_29_Salicylaldehyde,A15,CYS330,,closest C (fallback)
+A15-new-ALDH7A1_2_acetaldehyde,A15,CYS330,13.713,aldehyde detected
+"A15-new-ALDH7A1_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",A15,CYS330,19.24,aldehyde detected
+"A15-new-ALDH7A1_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",A15,CYS330,19.014,aldehyde detected
+"A15-new-ALDH7A1_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",A15,CYS330,25.264,aldehyde detected
+"A15-new-ALDH7A1_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",A15,CYS330,2.055,aldehyde detected
+A15-new-ALDH7A1_32_9-cis-Retinal,A15,CYS330,7.853,aldehyde detected
+A15-new-ALDH7A1_33_11-cis-Retinol,A15,CYS330,18.814,aldehyde detected
+A15-new-ALDH7A1_34_4-hydroxy-2-nonenal,A15,CYS330,4.301,aldehyde detected
+A15-new-ALDH7A1_34_4-hydroxy-2-nonenal,A15,CYS330,7.298,aldehyde detected
+A15-new-ALDH7A1_35_Cinnamaldehyde,A15,CYS330,32.233,aldehyde detected
+A15-new-ALDH7A1_36_3-(4-Isopropylphenyl)-2-methylpropanal,A15,CYS330,13.928,aldehyde detected
+A15-new-ALDH7A1_37_thiobenzaldehyde,A15,CYS330,30.284,closest C (fallback)
+"A15-new-ALDH7A1_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",A15,CYS330,10.008,aldehyde detected
+"A15-new-ALDH7A1_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",A15,CYS330,8.716,aldehyde detected
+"A15-new-ALDH7A1_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",A15,CYS330,12.401,aldehyde detected
+"A15-new-ALDH7A1_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",A15,CYS330,12.684,aldehyde detected
+A15-new-ALDH7A1_39_4-nitrobenzaldehyde,A15,CYS330,13.832,aldehyde detected
+A15-new-ALDH7A1_3_propylaldehyde,A15,CYS330,4.083,aldehyde detected
+A15-new-ALDH7A1_40_Furan-2-carbaldehyde,A15,CYS330,28.424,aldehyde detected
+A15-new-ALDH7A1_41_Indole-3-acetaldehyde,A15,CYS330,,closest C (fallback)
+A15-new-ALDH7A1_42_Glutamate-5-semialdehyde,A15,CYS330,3.359,aldehyde detected
+A15-new-ALDH7A1_43_Glutamate-1-semialdehyde,A15,CYS330,42.645,aldehyde detected
+A15-new-ALDH7A1_44_glutarate semialdehyde,A15,CYS330,2.196,aldehyde detected
+A15-new-ALDH7A1_45_adipate semialdehyde,A15,CYS330,1.867,aldehyde detected
+A15-new-ALDH7A1_46_Succinic semialdehyde,A15,CYS330,2.044,aldehyde detected
+A15-new-ALDH7A1_47_methylmalonate semialdehyde,A15,CYS330,17.777,aldehyde detected
+A15-new-ALDH7A1_48_alpha-aminoadipate semialdehyde,A15,CYS330,6.12,aldehyde detected
+A15-new-ALDH7A1_49_2-Aminomuconic semialdehyde,A15,CYS330,18.254,aldehyde detected
+A15-new-ALDH7A1_4_malonaldehyde,A15,CYS330,22.279,aldehyde detected
+A15-new-ALDH7A1_4_malonaldehyde,A15,CYS330,19.882,aldehyde detected
+A15-new-ALDH7A1_50_10-formyltetrahydrofolate,A15,CYS330,15.544,aldehyde detected
+A15-new-ALDH7A1_50_10-formyltetrahydrofolate,A15,CYS330,10.595,aldehyde detected
+A15-new-ALDH7A1_50_10-formyltetrahydrofolate,A15,CYS330,14.169,aldehyde detected
+A15-new-ALDH7A1_51_6R-Tetrahydrofolic acid,A15,CYS330,16.785,aldehyde detected
+A15-new-ALDH7A1_51_6R-Tetrahydrofolic acid,A15,CYS330,14.83,aldehyde detected
+A15-new-ALDH7A1_52_Triose phosphate,A15,CYS330,7.929,aldehyde detected
+A15-new-ALDH7A1_52_Triose phosphate,A15,CYS330,9.43,aldehyde detected
+A15-new-ALDH7A1_52_Triose phosphate,A15,CYS330,9.966,aldehyde detected
+A15-new-ALDH7A1_53_Pyridoxal phosphate,A15,CYS330,13.829,aldehyde detected
+A15-new-ALDH7A1_53_Pyridoxal phosphate,A15,CYS330,17.181,aldehyde detected
+A15-new-ALDH7A1_53_Pyridoxal phosphate,A15,CYS330,15.401,aldehyde detected
+A15-new-ALDH7A1_55_Ethanol,A15,CYS330,10.671,aldehyde detected
+A15-new-ALDH7A1_56_S-hydroxy-methylglutathione,A15,CYS330,4.093,aldehyde detected
+A15-new-ALDH7A1_56_S-hydroxy-methylglutathione,A15,CYS330,2.415,aldehyde detected
+A15-new-ALDH7A1_56_S-hydroxy-methylglutathione,A15,CYS330,3.556,aldehyde detected
+A15-new-ALDH7A1_57_S-3-oxopropylglutathione,A15,CYS330,9.984,aldehyde detected
+A15-new-ALDH7A1_57_S-3-oxopropylglutathione,A15,CYS330,9.856,aldehyde detected
+A15-new-ALDH7A1_57_S-3-oxopropylglutathione,A15,CYS330,3.85,aldehyde detected
+A15-new-ALDH7A1_58_S-(4-oxobutan-2-yl)glutathione,A15,CYS330,18.164,aldehyde detected
+A15-new-ALDH7A1_58_S-(4-oxobutan-2-yl)glutathione,A15,CYS330,17.142,aldehyde detected
+A15-new-ALDH7A1_58_S-(4-oxobutan-2-yl)glutathione,A15,CYS330,17.295,aldehyde detected
+A15-new-ALDH7A1_59_4-Hydroxynonenal_glutathione,A15,CYS330,5.871,aldehyde detected
+A15-new-ALDH7A1_59_4-Hydroxynonenal_glutathione,A15,CYS330,3.105,aldehyde detected
+A15-new-ALDH7A1_5_butyraldehyde,A15,CYS330,16.311,aldehyde detected
+A15-new-ALDH7A1_60_S-Formylglutathione,A15,CYS330,6.278,aldehyde detected
+A15-new-ALDH7A1_60_S-Formylglutathione,A15,CYS330,4.787,aldehyde detected
+A15-new-ALDH7A1_60_S-Formylglutathione,A15,CYS330,2.169,aldehyde detected
+A15-new-ALDH7A1_6_amylaldehyde,A15,CYS330,6.933,aldehyde detected
+A15-new-ALDH7A1_7_glutaraldehyde,A15,CYS330,10.124,aldehyde detected
+A15-new-ALDH7A1_7_glutaraldehyde,A15,CYS330,14.076,aldehyde detected
+A15-new-ALDH7A1_8_hexanal,A15,CYS330,5.547,aldehyde detected
+A15-new-ALDH7A1_9_2-hydroxypropionaldehyde,A15,CYS330,14.236,aldehyde detected
+A15-new-ALDH7A1_9_2-hydroxypropionaldehyde,A15,CYS330,15.634,aldehyde detected
+A16_10_4-guanidinobutyraldehyde,A16,CYS287,24.088,aldehyde detected
+A16_11_prop-2-enal,A16,CYS287,44.769,aldehyde detected
+A16_12_prop-2-ynal,A16,CYS287,11.643,aldehyde detected
+A16_13_(2E)-but-2-enal,A16,CYS287,2.716,aldehyde detected
+A16_14_trans-2-Hexenal,A16,CYS287,25.027,aldehyde detected
+A16_15_heptanal,A16,CYS287,11.368,aldehyde detected
+A16_16_octanaldehyde,A16,CYS287,3.995,aldehyde detected
+A16_17_nonanal,A16,CYS287,5.226,aldehyde detected
+A16_18_decanal,A16,CYS287,6.285,aldehyde detected
+A16_19_dodecanal,A16,CYS287,11.193,aldehyde detected
+A16_1_formaldehyde,A16,CYS287,25.253,aldehyde detected
+A16_20_Citral,A16,CYS287,28.179,aldehyde detected
+A16_22_trans-2-Octenal,A16,CYS287,3.104,aldehyde detected
+A16_23_4-Hydroxynonenal,A16,CYS287,1.606,aldehyde detected
+A16_23_4-Hydroxynonenal,A16,CYS287,3.232,aldehyde detected
+A16_24_Tetradecanal,A16,CYS287,2.406,aldehyde detected
+A16_25_hexadecanal,A16,CYS287,2.048,aldehyde detected
+A16_26_trans-2-hexadecenal,A16,CYS287,5.639,aldehyde detected
+A16_27_Benzaldehyde,A16,CYS287,29.842,aldehyde detected
+A16_28_Phenylacetaldehyde,A16,CYS287,12.949,aldehyde detected
+A16_29_Salicylaldehyde,A16,CYS287,30.102,aldehyde detected
+A16_29_Salicylaldehyde,A16,CYS287,30.001,aldehyde detected
+A16_2_acetaldehyde,A16,CYS287,3.717,aldehyde detected
+"A16_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",A16,CYS287,28.089,aldehyde detected
+"A16_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",A16,CYS287,27.907,aldehyde detected
+"A16_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",A16,CYS287,30.997,aldehyde detected
+"A16_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",A16,CYS287,21.737,aldehyde detected
+A16_32_9-cis-Retinal,A16,CYS287,3.245,aldehyde detected
+A16_33_11-cis-Retinol,A16,CYS287,8.365,aldehyde detected
+A16_34_4-hydroxy-2-nonenal,A16,CYS287,2.81,aldehyde detected
+A16_34_4-hydroxy-2-nonenal,A16,CYS287,6.086,aldehyde detected
+A16_35_Cinnamaldehyde,A16,CYS287,35.179,aldehyde detected
+A16_36_3-(4-Isopropylphenyl)-2-methylpropanal,A16,CYS287,3.594,aldehyde detected
+A16_37_thiobenzaldehyde,A16,CYS287,25.858,closest C (fallback)
+"A16_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",A16,CYS287,26.688,aldehyde detected
+"A16_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",A16,CYS287,27.926,aldehyde detected
+"A16_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",A16,CYS287,26.646,aldehyde detected
+"A16_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",A16,CYS287,27.6,aldehyde detected
+A16_39_4-nitrobenzaldehyde,A16,CYS287,8.311,aldehyde detected
+A16_3_propylaldehyde,A16,CYS287,10.527,aldehyde detected
+A16_40_Furan-2-carbaldehyde,A16,CYS287,14.216,aldehyde detected
+A16_41_Indole-3-acetaldehyde,A16,CYS287,22.818,aldehyde detected
+A16_42_Glutamate-5-semialdehyde,A16,CYS287,5.616,aldehyde detected
+A16_43_Glutamate-1-semialdehyde,A16,CYS287,1.685,aldehyde detected
+A16_44_glutarate semialdehyde,A16,CYS287,2.69,aldehyde detected
+A16_45_adipate semialdehyde,A16,CYS287,2.377,aldehyde detected
+A16_46_Succinic semialdehyde,A16,CYS287,2.143,aldehyde detected
+A16_47_methylmalonate semialdehyde,A16,CYS287,12.305,aldehyde detected
+A16_48_alpha-aminoadipate semialdehyde,A16,CYS287,2.495,aldehyde detected
+A16_49_2-Aminomuconic semialdehyde,A16,CYS287,24.145,aldehyde detected
+A16_4_malonaldehyde,A16,CYS287,11.951,aldehyde detected
+A16_4_malonaldehyde,A16,CYS287,14.266,aldehyde detected
+A16_50_10-formyltetrahydrofolate,A16,CYS287,16.936,aldehyde detected
+A16_50_10-formyltetrahydrofolate,A16,CYS287,14.367,aldehyde detected
+A16_50_10-formyltetrahydrofolate,A16,CYS287,11.931,aldehyde detected
+A16_51_6R-Tetrahydrofolic acid,A16,CYS287,15.445,aldehyde detected
+A16_51_6R-Tetrahydrofolic acid,A16,CYS287,12.034,aldehyde detected
+A16_52_Triose phosphate,A16,CYS287,3.795,aldehyde detected
+A16_52_Triose phosphate,A16,CYS287,2.454,aldehyde detected
+A16_52_Triose phosphate,A16,CYS287,3.119,aldehyde detected
+A16_53_Pyridoxal phosphate,A16,CYS287,12.371,aldehyde detected
+A16_53_Pyridoxal phosphate,A16,CYS287,15.51,aldehyde detected
+A16_53_Pyridoxal phosphate,A16,CYS287,13.968,aldehyde detected
+A16_54_Methanol,A16,CYS287,2.689,aldehyde detected
+A16_55_Ethanol,A16,CYS287,25.212,aldehyde detected
+A16_56_S-hydroxy-methylglutathione,A16,CYS287,3.909,aldehyde detected
+A16_56_S-hydroxy-methylglutathione,A16,CYS287,2.337,aldehyde detected
+A16_56_S-hydroxy-methylglutathione,A16,CYS287,4.08,aldehyde detected
+A16_57_S-3-oxopropylglutathione,A16,CYS287,2.131,aldehyde detected
+A16_57_S-3-oxopropylglutathione,A16,CYS287,3.958,aldehyde detected
+A16_57_S-3-oxopropylglutathione,A16,CYS287,6.017,aldehyde detected
+A16_58_S-(4-oxobutan-2-yl)glutathione,A16,CYS287,8.432,aldehyde detected
+A16_58_S-(4-oxobutan-2-yl)glutathione,A16,CYS287,11.697,aldehyde detected
+A16_58_S-(4-oxobutan-2-yl)glutathione,A16,CYS287,14.094,aldehyde detected
+A16_59_4-Hydroxynonenal_glutathione,A16,CYS287,9.251,aldehyde detected
+A16_59_4-Hydroxynonenal_glutathione,A16,CYS287,12.747,aldehyde detected
+A16_5_butyraldehyde,A16,CYS287,1.981,aldehyde detected
+A16_60_S-Formylglutathione,A16,CYS287,4.457,aldehyde detected
+A16_60_S-Formylglutathione,A16,CYS287,7.322,aldehyde detected
+A16_60_S-Formylglutathione,A16,CYS287,8.335,aldehyde detected
+A16_6_amylaldehyde,A16,CYS287,2.284,aldehyde detected
+A16_7_glutaraldehyde,A16,CYS287,4.258,aldehyde detected
+A16_7_glutaraldehyde,A16,CYS287,8.606,aldehyde detected
+A16_8_hexanal,A16,CYS287,2.716,aldehyde detected
+A16_9_2-hydroxypropionaldehyde,A16,CYS287,16.492,aldehyde detected
+A16_9_2-hydroxypropionaldehyde,A16,CYS287,15.198,aldehyde detected
+A17-new-ALDH9A1_10_4-guanidinobutyraldehyde,A17,CYS288,18.065,aldehyde detected
+A17-new-ALDH9A1_11_prop-2-enal,A17,CYS288,22.488,aldehyde detected
+A17-new-ALDH9A1_12_prop-2-ynal,A17,CYS288,27.823,aldehyde detected
+A17-new-ALDH9A1_13_(2E)-but-2-enal,A17,CYS288,2.095,aldehyde detected
+A17-new-ALDH9A1_14_trans-2-Hexenal,A17,CYS288,31.556,aldehyde detected
+A17-new-ALDH9A1_15_heptanal,A17,CYS288,2.314,aldehyde detected
+A17-new-ALDH9A1_16_octanaldehyde,A17,CYS288,2.526,aldehyde detected
+A17-new-ALDH9A1_17_nonanal,A17,CYS288,2.323,aldehyde detected
+A17-new-ALDH9A1_18_decanal,A17,CYS288,1.991,aldehyde detected
+A17-new-ALDH9A1_19_dodecanal,A17,CYS288,3.509,aldehyde detected
+A17-new-ALDH9A1_1_formaldehyde,A17,CYS288,25.878,aldehyde detected
+A17-new-ALDH9A1_20_Citral,A17,CYS288,4.192,aldehyde detected
+A17-new-ALDH9A1_22_trans-2-Octenal,A17,CYS288,3.044,aldehyde detected
+A17-new-ALDH9A1_23_4-Hydroxynonenal,A17,CYS288,6.909,aldehyde detected
+A17-new-ALDH9A1_23_4-Hydroxynonenal,A17,CYS288,9.89,aldehyde detected
+A17-new-ALDH9A1_24_Tetradecanal,A17,CYS288,3.642,aldehyde detected
+A17-new-ALDH9A1_25_hexadecanal,A17,CYS288,2.604,aldehyde detected
+A17-new-ALDH9A1_26_trans-2-hexadecenal,A17,CYS288,4.007,aldehyde detected
+A17-new-ALDH9A1_27_Benzaldehyde,A17,CYS288,16.98,aldehyde detected
+A17-new-ALDH9A1_28_Phenylacetaldehyde,A17,CYS288,5.924,aldehyde detected
+A17-new-ALDH9A1_29_Salicylaldehyde,A17,CYS288,32.086,aldehyde detected
+A17-new-ALDH9A1_29_Salicylaldehyde,A17,CYS288,29.816,aldehyde detected
+A17-new-ALDH9A1_2_acetaldehyde,A17,CYS288,10.479,aldehyde detected
+"A17-new-ALDH9A1_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",A17,CYS288,23.343,aldehyde detected
+"A17-new-ALDH9A1_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",A17,CYS288,22.279,aldehyde detected
+"A17-new-ALDH9A1_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",A17,CYS288,23.168,aldehyde detected
+"A17-new-ALDH9A1_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",A17,CYS288,3.034,aldehyde detected
+A17-new-ALDH9A1_32_9-cis-Retinal,A17,CYS288,3.046,aldehyde detected
+A17-new-ALDH9A1_33_11-cis-Retinol,A17,CYS288,13.912,aldehyde detected
+A17-new-ALDH9A1_34_4-hydroxy-2-nonenal,A17,CYS288,3.652,aldehyde detected
+A17-new-ALDH9A1_34_4-hydroxy-2-nonenal,A17,CYS288,7.308,aldehyde detected
+A17-new-ALDH9A1_35_Cinnamaldehyde,A17,CYS288,12.269,aldehyde detected
+A17-new-ALDH9A1_36_3-(4-Isopropylphenyl)-2-methylpropanal,A17,CYS288,4.294,aldehyde detected
+A17-new-ALDH9A1_37_thiobenzaldehyde,A17,CYS288,19.435,closest C (fallback)
+"A17-new-ALDH9A1_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",A17,CYS288,26.344,aldehyde detected
+"A17-new-ALDH9A1_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",A17,CYS288,24.907,aldehyde detected
+"A17-new-ALDH9A1_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",A17,CYS288,27.623,aldehyde detected
+"A17-new-ALDH9A1_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",A17,CYS288,27.845,aldehyde detected
+A17-new-ALDH9A1_39_4-nitrobenzaldehyde,A17,CYS288,18.109,aldehyde detected
+A17-new-ALDH9A1_3_propylaldehyde,A17,CYS288,2.798,aldehyde detected
+A17-new-ALDH9A1_40_Furan-2-carbaldehyde,A17,CYS288,19.245,aldehyde detected
+A17-new-ALDH9A1_41_Indole-3-acetaldehyde,A17,CYS288,16.925,aldehyde detected
+A17-new-ALDH9A1_42_Glutamate-5-semialdehyde,A17,CYS288,2.759,aldehyde detected
+A17-new-ALDH9A1_43_Glutamate-1-semialdehyde,A17,CYS288,4.556,aldehyde detected
+A17-new-ALDH9A1_44_glutarate semialdehyde,A17,CYS288,5.7,aldehyde detected
+A17-new-ALDH9A1_45_adipate semialdehyde,A17,CYS288,2.057,aldehyde detected
+A17-new-ALDH9A1_46_Succinic semialdehyde,A17,CYS288,3.818,aldehyde detected
+A17-new-ALDH9A1_47_methylmalonate semialdehyde,A17,CYS288,17.664,aldehyde detected
+A17-new-ALDH9A1_48_alpha-aminoadipate semialdehyde,A17,CYS288,12.081,aldehyde detected
+A17-new-ALDH9A1_49_2-Aminomuconic semialdehyde,A17,CYS288,17.099,aldehyde detected
+A17-new-ALDH9A1_4_malonaldehyde,A17,CYS288,30.459,aldehyde detected
+A17-new-ALDH9A1_4_malonaldehyde,A17,CYS288,30.665,aldehyde detected
+A17-new-ALDH9A1_50_10-formyltetrahydrofolate,A17,CYS288,,closest C (fallback)
+A17-new-ALDH9A1_51_6R-Tetrahydrofolic acid,A17,CYS288,15.668,aldehyde detected
+A17-new-ALDH9A1_51_6R-Tetrahydrofolic acid,A17,CYS288,5.841,aldehyde detected
+A17-new-ALDH9A1_52_Triose phosphate,A17,CYS288,12.693,aldehyde detected
+A17-new-ALDH9A1_52_Triose phosphate,A17,CYS288,13.968,aldehyde detected
+A17-new-ALDH9A1_52_Triose phosphate,A17,CYS288,15.042,aldehyde detected
+A17-new-ALDH9A1_53_Pyridoxal phosphate,A17,CYS288,12.845,aldehyde detected
+A17-new-ALDH9A1_53_Pyridoxal phosphate,A17,CYS288,15.466,aldehyde detected
+A17-new-ALDH9A1_53_Pyridoxal phosphate,A17,CYS288,15.719,aldehyde detected
+A17-new-ALDH9A1_55_Ethanol,A17,CYS288,19.067,aldehyde detected
+A17-new-ALDH9A1_56_S-hydroxy-methylglutathione,A17,CYS288,5.792,aldehyde detected
+A17-new-ALDH9A1_56_S-hydroxy-methylglutathione,A17,CYS288,7.683,aldehyde detected
+A17-new-ALDH9A1_56_S-hydroxy-methylglutathione,A17,CYS288,5.017,aldehyde detected
+A17-new-ALDH9A1_57_S-3-oxopropylglutathione,A17,CYS288,6.937,aldehyde detected
+A17-new-ALDH9A1_57_S-3-oxopropylglutathione,A17,CYS288,7.693,aldehyde detected
+A17-new-ALDH9A1_57_S-3-oxopropylglutathione,A17,CYS288,3.034,aldehyde detected
+A17-new-ALDH9A1_58_S-(4-oxobutan-2-yl)glutathione,A17,CYS288,3.313,aldehyde detected
+A17-new-ALDH9A1_58_S-(4-oxobutan-2-yl)glutathione,A17,CYS288,3.926,aldehyde detected
+A17-new-ALDH9A1_58_S-(4-oxobutan-2-yl)glutathione,A17,CYS288,3.666,aldehyde detected
+A17-new-ALDH9A1_59_4-Hydroxynonenal_glutathione,A17,CYS288,6.472,aldehyde detected
+A17-new-ALDH9A1_59_4-Hydroxynonenal_glutathione,A17,CYS288,10.144,aldehyde detected
+A17-new-ALDH9A1_5_butyraldehyde,A17,CYS288,2.669,aldehyde detected
+A17-new-ALDH9A1_60_S-Formylglutathione,A17,CYS288,9.167,aldehyde detected
+A17-new-ALDH9A1_60_S-Formylglutathione,A17,CYS288,8.694,aldehyde detected
+A17-new-ALDH9A1_60_S-Formylglutathione,A17,CYS288,4.171,aldehyde detected
+A17-new-ALDH9A1_6_amylaldehyde,A17,CYS288,3.4,aldehyde detected
+A17-new-ALDH9A1_7_glutaraldehyde,A17,CYS288,13.109,aldehyde detected
+A17-new-ALDH9A1_7_glutaraldehyde,A17,CYS288,11.747,aldehyde detected
+A17-new-ALDH9A1_8_hexanal,A17,CYS288,2.02,aldehyde detected
+A17-new-ALDH9A1_9_2-hydroxypropionaldehyde,A17,CYS288,13.102,aldehyde detected
+A17-new-ALDH9A1_9_2-hydroxypropionaldehyde,A17,CYS288,12.428,aldehyde detected
+A19_10_4-guanidinobutyraldehyde,A19,CYS612,58.158,aldehyde detected
+A19_11_prop-2-enal,A19,CYS612,53.498,aldehyde detected
+A19_12_prop-2-ynal,A19,CYS612,31.568,aldehyde detected
+A19_13_(2E)-but-2-enal,A19,CYS612,23.338,aldehyde detected
+A19_14_trans-2-Hexenal,A19,CYS612,59.002,aldehyde detected
+A19_15_heptanal,A19,CYS612,57.855,aldehyde detected
+A19_16_octanaldehyde,A19,CYS612,32.79,aldehyde detected
+A19_17_nonanal,A19,CYS612,57.23,aldehyde detected
+A19_19_dodecanal,A19,CYS612,57.25,aldehyde detected
+A19_1_formaldehyde,A19,CYS612,39.56,aldehyde detected
+A19_20_Citral,A19,CYS612,57.775,aldehyde detected
+A19_22_trans-2-Octenal,A19,CYS612,22.39,aldehyde detected
+A19_23_4-Hydroxynonenal,A19,CYS612,37.265,aldehyde detected
+A19_23_4-Hydroxynonenal,A19,CYS612,39.9,aldehyde detected
+A19_24_Tetradecanal,A19,CYS612,21.66,aldehyde detected
+A19_25_hexadecanal,A19,CYS612,57.955,aldehyde detected
+A19_26_trans-2-hexadecenal,A19,CYS612,60.359,aldehyde detected
+A19_27_Benzaldehyde,A19,CYS612,29.085,aldehyde detected
+A19_28_Phenylacetaldehyde,A19,CYS612,32.653,aldehyde detected
+A19_29_Salicylaldehyde,A19,CYS612,6.062,aldehyde detected
+A19_29_Salicylaldehyde,A19,CYS612,5.489,aldehyde detected
+A19_2_acetaldehyde,A19,CYS612,72.479,aldehyde detected
+"A19_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",A19,CYS612,39.23,aldehyde detected
+"A19_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",A19,CYS612,37.94,aldehyde detected
+"A19_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",A19,CYS612,41.137,aldehyde detected
+"A19_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",A19,CYS612,6.595,aldehyde detected
+A19_32_9-cis-Retinal,A19,CYS612,25.726,aldehyde detected
+A19_33_11-cis-Retinol,A19,CYS612,20.109,aldehyde detected
+A19_34_4-hydroxy-2-nonenal,A19,CYS612,45.789,aldehyde detected
+A19_34_4-hydroxy-2-nonenal,A19,CYS612,44.401,aldehyde detected
+A19_35_Cinnamaldehyde,A19,CYS612,58.291,aldehyde detected
+A19_36_3-(4-Isopropylphenyl)-2-methylpropanal,A19,CYS612,67.445,aldehyde detected
+A19_37_thiobenzaldehyde,A19,CYS612,35.468,closest C (fallback)
+"A19_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",A19,CYS612,21.045,aldehyde detected
+"A19_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",A19,CYS612,21.707,aldehyde detected
+"A19_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",A19,CYS612,20.018,aldehyde detected
+"A19_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",A19,CYS612,18.885,aldehyde detected
+A19_39_4-nitrobenzaldehyde,A19,CYS612,30.709,aldehyde detected
+A19_3_propylaldehyde,A19,CYS612,29.644,aldehyde detected
+A19_40_Furan-2-carbaldehyde,A19,CYS612,25.809,aldehyde detected
+A19_41_Indole-3-acetaldehyde,A19,CYS612,21.678,aldehyde detected
+A19_42_Glutamate-5-semialdehyde,A19,CYS612,15.649,aldehyde detected
+A19_43_Glutamate-1-semialdehyde,A19,CYS612,29.468,aldehyde detected
+A19_44_glutarate semialdehyde,A19,CYS612,57.425,aldehyde detected
+A19_45_adipate semialdehyde,A19,CYS612,65.982,aldehyde detected
+A19_46_Succinic semialdehyde,A19,CYS612,30.014,aldehyde detected
+A19_47_methylmalonate semialdehyde,A19,CYS612,22.038,aldehyde detected
+A19_48_alpha-aminoadipate semialdehyde,A19,CYS612,27.887,aldehyde detected
+A19_49_2-Aminomuconic semialdehyde,A19,CYS612,33.333,aldehyde detected
+A19_4_malonaldehyde,A19,CYS612,22.305,aldehyde detected
+A19_4_malonaldehyde,A19,CYS612,21.882,aldehyde detected
+A19_50_10-formyltetrahydrofolate,A19,CYS612,16.005,aldehyde detected
+A19_50_10-formyltetrahydrofolate,A19,CYS612,13.806,aldehyde detected
+A19_50_10-formyltetrahydrofolate,A19,CYS612,19.933,aldehyde detected
+A19_51_6R-Tetrahydrofolic acid,A19,CYS612,51.397,aldehyde detected
+A19_51_6R-Tetrahydrofolic acid,A19,CYS612,60.775,aldehyde detected
+A19_52_Triose phosphate,A19,CYS612,4.955,aldehyde detected
+A19_52_Triose phosphate,A19,CYS612,5.072,aldehyde detected
+A19_52_Triose phosphate,A19,CYS612,4.127,aldehyde detected
+A19_53_Pyridoxal phosphate,A19,CYS612,15.34,aldehyde detected
+A19_53_Pyridoxal phosphate,A19,CYS612,12.4,aldehyde detected
+A19_53_Pyridoxal phosphate,A19,CYS612,14.058,aldehyde detected
+A19_54_Methanol,A19,CYS612,59.005,aldehyde detected
+A19_56_S-hydroxy-methylglutathione,A19,CYS612,28.996,aldehyde detected
+A19_56_S-hydroxy-methylglutathione,A19,CYS612,25.529,aldehyde detected
+A19_56_S-hydroxy-methylglutathione,A19,CYS612,25.128,aldehyde detected
+A19_57_S-3-oxopropylglutathione,A19,CYS612,22.762,aldehyde detected
+A19_57_S-3-oxopropylglutathione,A19,CYS612,20.274,aldehyde detected
+A19_57_S-3-oxopropylglutathione,A19,CYS612,22.255,aldehyde detected
+A19_58_S-(4-oxobutan-2-yl)glutathione,A19,CYS612,57.764,aldehyde detected
+A19_58_S-(4-oxobutan-2-yl)glutathione,A19,CYS612,59.559,aldehyde detected
+A19_58_S-(4-oxobutan-2-yl)glutathione,A19,CYS612,64.011,aldehyde detected
+A19_59_4-Hydroxynonenal_glutathione,A19,CYS612,64.095,aldehyde detected
+A19_59_4-Hydroxynonenal_glutathione,A19,CYS612,64.632,aldehyde detected
+A19_5_butyraldehyde,A19,CYS612,33.062,aldehyde detected
+A19_60_S-Formylglutathione,A19,CYS612,63.795,aldehyde detected
+A19_60_S-Formylglutathione,A19,CYS612,64.792,aldehyde detected
+A19_60_S-Formylglutathione,A19,CYS612,65.714,aldehyde detected
+A19_6_amylaldehyde,A19,CYS612,28.021,aldehyde detected
+A19_7_glutaraldehyde,A19,CYS612,27.461,aldehyde detected
+A19_7_glutaraldehyde,A19,CYS612,30.07,aldehyde detected
+A19_8_hexanal,A19,CYS612,31.952,aldehyde detected
+A19_9_2-hydroxypropionaldehyde,A19,CYS612,4.621,aldehyde detected
+A19_9_2-hydroxypropionaldehyde,A19,CYS612,4.826,aldehyde detected
+B1_10_4-guanidinobutyraldehyde,B1,CYS47,10.444,aldehyde detected
+B1_10_4-guanidinobutyraldehyde,B1,HIS68,10.806,aldehyde detected
+B1_10_4-guanidinobutyraldehyde,B1,CYS175,9.94,aldehyde detected
+B1_11_prop-2-enal,B1,CYS47,12.352,aldehyde detected
+B1_11_prop-2-enal,B1,HIS68,12.576,aldehyde detected
+B1_11_prop-2-enal,B1,CYS175,11.505,aldehyde detected
+B1_12_prop-2-ynal,B1,CYS47,15.083,aldehyde detected
+B1_12_prop-2-ynal,B1,HIS68,18.41,aldehyde detected
+B1_12_prop-2-ynal,B1,CYS175,18.238,aldehyde detected
+B1_13_(2E)-but-2-enal,B1,CYS47,7.372,aldehyde detected
+B1_13_(2E)-but-2-enal,B1,HIS68,7.427,aldehyde detected
+B1_13_(2E)-but-2-enal,B1,CYS175,5.92,aldehyde detected
+B1_14_trans-2-Hexenal,B1,CYS47,8.693,aldehyde detected
+B1_14_trans-2-Hexenal,B1,HIS68,11.622,aldehyde detected
+B1_14_trans-2-Hexenal,B1,CYS175,12.797,aldehyde detected
+B1_15_heptanal,B1,CYS47,4.386,aldehyde detected
+B1_15_heptanal,B1,HIS68,4.084,aldehyde detected
+B1_15_heptanal,B1,CYS175,2.454,aldehyde detected
+B1_16_octanaldehyde,B1,CYS47,3.458,aldehyde detected
+B1_16_octanaldehyde,B1,HIS68,4.152,aldehyde detected
+B1_16_octanaldehyde,B1,CYS175,1.967,aldehyde detected
+B1_17_nonanal,B1,CYS47,5.599,aldehyde detected
+B1_17_nonanal,B1,HIS68,8.239,aldehyde detected
+B1_17_nonanal,B1,CYS175,8.188,aldehyde detected
+B1_18_decanal,B1,CYS47,2.883,aldehyde detected
+B1_18_decanal,B1,HIS68,3.558,aldehyde detected
+B1_18_decanal,B1,CYS175,1.961,aldehyde detected
+B1_19_dodecanal,B1,CYS47,2.491,aldehyde detected
+B1_19_dodecanal,B1,HIS68,4.252,aldehyde detected
+B1_19_dodecanal,B1,CYS175,2.5,aldehyde detected
+B1_1_formaldehyde,B1,CYS47,11.074,aldehyde detected
+B1_1_formaldehyde,B1,HIS68,13.277,aldehyde detected
+B1_1_formaldehyde,B1,CYS175,14.9,aldehyde detected
+B1_20_Citral,B1,CYS47,11.412,aldehyde detected
+B1_20_Citral,B1,HIS68,11.736,aldehyde detected
+B1_20_Citral,B1,CYS175,10.709,aldehyde detected
+B1_22_trans-2-Octenal,B1,CYS47,24.454,aldehyde detected
+B1_22_trans-2-Octenal,B1,HIS68,23.731,aldehyde detected
+B1_22_trans-2-Octenal,B1,CYS175,21.687,aldehyde detected
+B1_23_4-Hydroxynonenal,B1,CYS47,9.077,aldehyde detected
+B1_23_4-Hydroxynonenal,B1,CYS47,6.113,aldehyde detected
+B1_23_4-Hydroxynonenal,B1,HIS68,9.389,aldehyde detected
+B1_23_4-Hydroxynonenal,B1,HIS68,6.507,aldehyde detected
+B1_23_4-Hydroxynonenal,B1,CYS175,8.515,aldehyde detected
+B1_23_4-Hydroxynonenal,B1,CYS175,5.244,aldehyde detected
+B1_24_Tetradecanal,B1,CYS47,5.356,aldehyde detected
+B1_24_Tetradecanal,B1,HIS68,8.387,aldehyde detected
+B1_24_Tetradecanal,B1,CYS175,8.153,aldehyde detected
+B1_25_hexadecanal,B1,CYS47,15.809,aldehyde detected
+B1_25_hexadecanal,B1,HIS68,15.887,aldehyde detected
+B1_25_hexadecanal,B1,CYS175,15.052,aldehyde detected
+B1_26_trans-2-hexadecenal,B1,CYS47,18.499,aldehyde detected
+B1_26_trans-2-hexadecenal,B1,HIS68,18.631,aldehyde detected
+B1_26_trans-2-hexadecenal,B1,CYS175,17.802,aldehyde detected
+B1_27_Benzaldehyde,B1,CYS47,15.89,aldehyde detected
+B1_27_Benzaldehyde,B1,HIS68,16.001,aldehyde detected
+B1_27_Benzaldehyde,B1,CYS175,15.183,aldehyde detected
+B1_28_Phenylacetaldehyde,B1,CYS47,19.113,aldehyde detected
+B1_28_Phenylacetaldehyde,B1,HIS68,17.957,aldehyde detected
+B1_28_Phenylacetaldehyde,B1,CYS175,16.915,aldehyde detected
+B1_29_Salicylaldehyde,B1,CYS47,30.954,aldehyde detected
+B1_29_Salicylaldehyde,B1,CYS47,31.062,aldehyde detected
+B1_29_Salicylaldehyde,B1,HIS68,33.049,aldehyde detected
+B1_29_Salicylaldehyde,B1,HIS68,33.103,aldehyde detected
+B1_29_Salicylaldehyde,B1,CYS175,30.143,aldehyde detected
+B1_29_Salicylaldehyde,B1,CYS175,30.33,aldehyde detected
+B1_2_acetaldehyde,B1,CYS47,5.196,aldehyde detected
+B1_2_acetaldehyde,B1,HIS68,7.81,aldehyde detected
+B1_2_acetaldehyde,B1,CYS175,7.321,aldehyde detected
+"B1_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",B1,CYS47,30.583,aldehyde detected
+"B1_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",B1,CYS47,31.741,aldehyde detected
+"B1_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",B1,CYS47,27.558,aldehyde detected
+"B1_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",B1,HIS68,31.333,aldehyde detected
+"B1_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",B1,HIS68,32.494,aldehyde detected
+"B1_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",B1,HIS68,27.719,aldehyde detected
+"B1_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",B1,CYS175,31.151,aldehyde detected
+"B1_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",B1,CYS175,32.229,aldehyde detected
+"B1_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",B1,CYS175,27.658,aldehyde detected
+"B1_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",B1,CYS47,22.867,aldehyde detected
+"B1_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",B1,HIS68,21.558,aldehyde detected
+"B1_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",B1,CYS175,20.172,aldehyde detected
+B1_32_9-cis-Retinal,B1,CYS47,25.841,aldehyde detected
+B1_32_9-cis-Retinal,B1,HIS68,26.211,aldehyde detected
+B1_32_9-cis-Retinal,B1,CYS175,24.279,aldehyde detected
+B1_33_11-cis-Retinol,B1,CYS47,17.596,aldehyde detected
+B1_33_11-cis-Retinol,B1,HIS68,17.686,aldehyde detected
+B1_33_11-cis-Retinol,B1,CYS175,16.867,aldehyde detected
+B1_34_4-hydroxy-2-nonenal,B1,CYS47,20.937,aldehyde detected
+B1_34_4-hydroxy-2-nonenal,B1,CYS47,17.437,aldehyde detected
+B1_34_4-hydroxy-2-nonenal,B1,HIS68,21.478,aldehyde detected
+B1_34_4-hydroxy-2-nonenal,B1,HIS68,18.215,aldehyde detected
+B1_34_4-hydroxy-2-nonenal,B1,CYS175,21.423,aldehyde detected
+B1_34_4-hydroxy-2-nonenal,B1,CYS175,17.937,aldehyde detected
+B1_35_Cinnamaldehyde,B1,CYS47,32.123,aldehyde detected
+B1_35_Cinnamaldehyde,B1,HIS68,34.551,aldehyde detected
+B1_35_Cinnamaldehyde,B1,CYS175,33.038,aldehyde detected
+B1_36_3-(4-Isopropylphenyl)-2-methylpropanal,B1,CYS47,10.083,aldehyde detected
+B1_36_3-(4-Isopropylphenyl)-2-methylpropanal,B1,HIS68,13.528,aldehyde detected
+B1_36_3-(4-Isopropylphenyl)-2-methylpropanal,B1,CYS175,13.756,aldehyde detected
+B1_37_thiobenzaldehyde,B1,CYS47,3.712,closest C (fallback)
+B1_37_thiobenzaldehyde,B1,HIS68,5.149,closest C (fallback)
+B1_37_thiobenzaldehyde,B1,CYS175,3.297,closest C (fallback)
+"B1_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",B1,CYS47,18.124,aldehyde detected
+"B1_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",B1,CYS47,17.961,aldehyde detected
+"B1_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",B1,CYS47,19.076,aldehyde detected
+"B1_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",B1,CYS47,20.532,aldehyde detected
+"B1_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",B1,HIS68,18.238,aldehyde detected
+"B1_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",B1,HIS68,18.367,aldehyde detected
+"B1_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",B1,HIS68,19.009,aldehyde detected
+"B1_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",B1,HIS68,20.498,aldehyde detected
+"B1_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",B1,CYS175,18.637,aldehyde detected
+"B1_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",B1,CYS175,18.758,aldehyde detected
+"B1_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",B1,CYS175,19.075,aldehyde detected
+"B1_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",B1,CYS175,20.507,aldehyde detected
+B1_39_4-nitrobenzaldehyde,B1,CYS47,3.456,aldehyde detected
+B1_39_4-nitrobenzaldehyde,B1,HIS68,6.429,aldehyde detected
+B1_39_4-nitrobenzaldehyde,B1,CYS175,6.054,aldehyde detected
+B1_3_propylaldehyde,B1,CYS47,20.455,aldehyde detected
+B1_3_propylaldehyde,B1,HIS68,20.909,aldehyde detected
+B1_3_propylaldehyde,B1,CYS175,20.993,aldehyde detected
+B1_40_Furan-2-carbaldehyde,B1,CYS47,4.453,aldehyde detected
+B1_40_Furan-2-carbaldehyde,B1,HIS68,8.135,aldehyde detected
+B1_40_Furan-2-carbaldehyde,B1,CYS175,7.671,aldehyde detected
+B1_41_Indole-3-acetaldehyde,B1,CYS47,16.345,aldehyde detected
+B1_41_Indole-3-acetaldehyde,B1,HIS68,16.757,aldehyde detected
+B1_41_Indole-3-acetaldehyde,B1,CYS175,16.719,aldehyde detected
+B1_42_Glutamate-5-semialdehyde,B1,CYS47,25.453,aldehyde detected
+B1_42_Glutamate-5-semialdehyde,B1,HIS68,26.075,aldehyde detected
+B1_42_Glutamate-5-semialdehyde,B1,CYS175,25.788,aldehyde detected
+B1_43_Glutamate-1-semialdehyde,B1,CYS47,18.974,aldehyde detected
+B1_43_Glutamate-1-semialdehyde,B1,HIS68,18.111,aldehyde detected
+B1_43_Glutamate-1-semialdehyde,B1,CYS175,16.596,aldehyde detected
+B1_44_glutarate semialdehyde,B1,CYS47,4.705,aldehyde detected
+B1_44_glutarate semialdehyde,B1,HIS68,3.917,aldehyde detected
+B1_44_glutarate semialdehyde,B1,CYS175,3.633,aldehyde detected
+B1_45_adipate semialdehyde,B1,CYS47,9.063,aldehyde detected
+B1_45_adipate semialdehyde,B1,HIS68,9.268,aldehyde detected
+B1_45_adipate semialdehyde,B1,CYS175,8.166,aldehyde detected
+B1_46_Succinic semialdehyde,B1,CYS47,5.135,aldehyde detected
+B1_46_Succinic semialdehyde,B1,HIS68,7.287,aldehyde detected
+B1_46_Succinic semialdehyde,B1,CYS175,6.333,aldehyde detected
+B1_47_methylmalonate semialdehyde,B1,CYS47,18.399,aldehyde detected
+B1_47_methylmalonate semialdehyde,B1,HIS68,18.703,aldehyde detected
+B1_47_methylmalonate semialdehyde,B1,CYS175,18.63,aldehyde detected
+B1_48_alpha-aminoadipate semialdehyde,B1,CYS47,16.976,aldehyde detected
+B1_48_alpha-aminoadipate semialdehyde,B1,HIS68,17.608,aldehyde detected
+B1_48_alpha-aminoadipate semialdehyde,B1,CYS175,17.476,aldehyde detected
+B1_49_2-Aminomuconic semialdehyde,B1,CYS47,23.192,aldehyde detected
+B1_49_2-Aminomuconic semialdehyde,B1,HIS68,23.61,aldehyde detected
+B1_49_2-Aminomuconic semialdehyde,B1,CYS175,21.524,aldehyde detected
+B1_4_malonaldehyde,B1,CYS47,6.239,aldehyde detected
+B1_4_malonaldehyde,B1,CYS47,5.126,aldehyde detected
+B1_4_malonaldehyde,B1,HIS68,6.896,aldehyde detected
+B1_4_malonaldehyde,B1,HIS68,6.871,aldehyde detected
+B1_4_malonaldehyde,B1,CYS175,6.079,aldehyde detected
+B1_4_malonaldehyde,B1,CYS175,6.557,aldehyde detected
+B1_50_10-formyltetrahydrofolate,B1,CYS47,22.194,aldehyde detected
+B1_50_10-formyltetrahydrofolate,B1,CYS47,16.508,aldehyde detected
+B1_50_10-formyltetrahydrofolate,B1,CYS47,22.139,aldehyde detected
+B1_50_10-formyltetrahydrofolate,B1,HIS68,22.599,aldehyde detected
+B1_50_10-formyltetrahydrofolate,B1,HIS68,16.948,aldehyde detected
+B1_50_10-formyltetrahydrofolate,B1,HIS68,22.586,aldehyde detected
+B1_50_10-formyltetrahydrofolate,B1,CYS175,21.386,aldehyde detected
+B1_50_10-formyltetrahydrofolate,B1,CYS175,16.591,aldehyde detected
+B1_50_10-formyltetrahydrofolate,B1,CYS175,22.678,aldehyde detected
+B1_51_6R-Tetrahydrofolic acid,B1,CYS47,23.678,aldehyde detected
+B1_51_6R-Tetrahydrofolic acid,B1,CYS47,20.281,aldehyde detected
+B1_51_6R-Tetrahydrofolic acid,B1,HIS68,23.464,aldehyde detected
+B1_51_6R-Tetrahydrofolic acid,B1,HIS68,19.988,aldehyde detected
+B1_51_6R-Tetrahydrofolic acid,B1,CYS175,20.488,aldehyde detected
+B1_51_6R-Tetrahydrofolic acid,B1,CYS175,18.075,aldehyde detected
+B1_52_Triose phosphate,B1,CYS47,25.108,aldehyde detected
+B1_52_Triose phosphate,B1,CYS47,25.212,aldehyde detected
+B1_52_Triose phosphate,B1,CYS47,26.463,aldehyde detected
+B1_52_Triose phosphate,B1,HIS68,26.262,aldehyde detected
+B1_52_Triose phosphate,B1,HIS68,26.568,aldehyde detected
+B1_52_Triose phosphate,B1,HIS68,27.828,aldehyde detected
+B1_52_Triose phosphate,B1,CYS175,23.442,aldehyde detected
+B1_52_Triose phosphate,B1,CYS175,23.723,aldehyde detected
+B1_52_Triose phosphate,B1,CYS175,24.918,aldehyde detected
+B1_53_Pyridoxal phosphate,B1,CYS47,5.582,aldehyde detected
+B1_53_Pyridoxal phosphate,B1,CYS47,5.201,aldehyde detected
+B1_53_Pyridoxal phosphate,B1,CYS47,4.781,aldehyde detected
+B1_53_Pyridoxal phosphate,B1,HIS68,8.796,aldehyde detected
+B1_53_Pyridoxal phosphate,B1,HIS68,6.948,aldehyde detected
+B1_53_Pyridoxal phosphate,B1,HIS68,7.271,aldehyde detected
+B1_53_Pyridoxal phosphate,B1,CYS175,8.101,aldehyde detected
+B1_53_Pyridoxal phosphate,B1,CYS175,6.652,aldehyde detected
+B1_53_Pyridoxal phosphate,B1,CYS175,7.655,aldehyde detected
+B1_54_Methanol,B1,CYS47,4.247,aldehyde detected
+B1_54_Methanol,B1,HIS68,3.816,aldehyde detected
+B1_54_Methanol,B1,CYS175,2.703,aldehyde detected
+B1_55_Ethanol,B1,CYS47,18.04,aldehyde detected
+B1_55_Ethanol,B1,HIS68,18.46,aldehyde detected
+B1_55_Ethanol,B1,CYS175,17.406,aldehyde detected
+B1_56_S-hydroxy-methylglutathione,B1,CYS47,33.544,aldehyde detected
+B1_56_S-hydroxy-methylglutathione,B1,CYS47,31.049,aldehyde detected
+B1_56_S-hydroxy-methylglutathione,B1,CYS47,28.93,aldehyde detected
+B1_56_S-hydroxy-methylglutathione,B1,HIS68,34.82,aldehyde detected
+B1_56_S-hydroxy-methylglutathione,B1,HIS68,32.132,aldehyde detected
+B1_56_S-hydroxy-methylglutathione,B1,HIS68,30.578,aldehyde detected
+B1_56_S-hydroxy-methylglutathione,B1,CYS175,34.516,aldehyde detected
+B1_56_S-hydroxy-methylglutathione,B1,CYS175,32.041,aldehyde detected
+B1_56_S-hydroxy-methylglutathione,B1,CYS175,30.298,aldehyde detected
+B1_57_S-3-oxopropylglutathione,B1,CYS47,9.485,aldehyde detected
+B1_57_S-3-oxopropylglutathione,B1,CYS47,6.089,aldehyde detected
+B1_57_S-3-oxopropylglutathione,B1,CYS47,7.445,aldehyde detected
+B1_57_S-3-oxopropylglutathione,B1,HIS68,9.555,aldehyde detected
+B1_57_S-3-oxopropylglutathione,B1,HIS68,6.649,aldehyde detected
+B1_57_S-3-oxopropylglutathione,B1,HIS68,6.035,aldehyde detected
+B1_57_S-3-oxopropylglutathione,B1,CYS175,8.877,aldehyde detected
+B1_57_S-3-oxopropylglutathione,B1,CYS175,5.592,aldehyde detected
+B1_57_S-3-oxopropylglutathione,B1,CYS175,7.443,aldehyde detected
+B1_58_S-(4-oxobutan-2-yl)glutathione,B1,CYS47,23.488,aldehyde detected
+B1_58_S-(4-oxobutan-2-yl)glutathione,B1,CYS47,20.352,aldehyde detected
+B1_58_S-(4-oxobutan-2-yl)glutathione,B1,CYS47,20.042,aldehyde detected
+B1_58_S-(4-oxobutan-2-yl)glutathione,B1,HIS68,23.958,aldehyde detected
+B1_58_S-(4-oxobutan-2-yl)glutathione,B1,HIS68,20.801,aldehyde detected
+B1_58_S-(4-oxobutan-2-yl)glutathione,B1,HIS68,20.369,aldehyde detected
+B1_58_S-(4-oxobutan-2-yl)glutathione,B1,CYS175,23.864,aldehyde detected
+B1_58_S-(4-oxobutan-2-yl)glutathione,B1,CYS175,20.921,aldehyde detected
+B1_58_S-(4-oxobutan-2-yl)glutathione,B1,CYS175,19.478,aldehyde detected
+B1_59_4-Hydroxynonenal_glutathione,B1,CYS47,16.296,aldehyde detected
+B1_59_4-Hydroxynonenal_glutathione,B1,CYS47,17.109,aldehyde detected
+B1_59_4-Hydroxynonenal_glutathione,B1,HIS68,16.443,aldehyde detected
+B1_59_4-Hydroxynonenal_glutathione,B1,HIS68,16.857,aldehyde detected
+B1_59_4-Hydroxynonenal_glutathione,B1,CYS175,16.029,aldehyde detected
+B1_59_4-Hydroxynonenal_glutathione,B1,CYS175,15.953,aldehyde detected
+B1_5_butyraldehyde,B1,CYS47,19.758,aldehyde detected
+B1_5_butyraldehyde,B1,HIS68,20.269,aldehyde detected
+B1_5_butyraldehyde,B1,CYS175,20.373,aldehyde detected
+B1_60_S-Formylglutathione,B1,CYS47,27.294,aldehyde detected
+B1_60_S-Formylglutathione,B1,CYS47,23.766,aldehyde detected
+B1_60_S-Formylglutathione,B1,CYS47,26.09,aldehyde detected
+B1_60_S-Formylglutathione,B1,HIS68,27.827,aldehyde detected
+B1_60_S-Formylglutathione,B1,HIS68,24.312,aldehyde detected
+B1_60_S-Formylglutathione,B1,HIS68,26.319,aldehyde detected
+B1_60_S-Formylglutathione,B1,CYS175,27.678,aldehyde detected
+B1_60_S-Formylglutathione,B1,CYS175,24.276,aldehyde detected
+B1_60_S-Formylglutathione,B1,CYS175,25.842,aldehyde detected
+B1_6_amylaldehyde,B1,CYS47,18.982,aldehyde detected
+B1_6_amylaldehyde,B1,HIS68,18.46,aldehyde detected
+B1_6_amylaldehyde,B1,CYS175,16.953,aldehyde detected
+B1_7_glutaraldehyde,B1,CYS47,17.401,aldehyde detected
+B1_7_glutaraldehyde,B1,CYS47,22.317,aldehyde detected
+B1_7_glutaraldehyde,B1,HIS68,18.129,aldehyde detected
+B1_7_glutaraldehyde,B1,HIS68,22.95,aldehyde detected
+B1_7_glutaraldehyde,B1,CYS175,18.095,aldehyde detected
+B1_7_glutaraldehyde,B1,CYS175,22.872,aldehyde detected
+B1_8_hexanal,B1,CYS47,6.549,aldehyde detected
+B1_8_hexanal,B1,HIS68,6.448,aldehyde detected
+B1_8_hexanal,B1,CYS175,4.896,aldehyde detected
+B1_9_2-hydroxypropionaldehyde,B1,CYS47,11.329,aldehyde detected
+B1_9_2-hydroxypropionaldehyde,B1,CYS47,12.767,aldehyde detected
+B1_9_2-hydroxypropionaldehyde,B1,HIS68,11.565,aldehyde detected
+B1_9_2-hydroxypropionaldehyde,B1,HIS68,12.975,aldehyde detected
+B1_9_2-hydroxypropionaldehyde,B1,CYS175,10.613,aldehyde detected
+B1_9_2-hydroxypropionaldehyde,B1,CYS175,12.071,aldehyde detected
+B2_10_4-guanidinobutyraldehyde,B2,CYS47,6.543,aldehyde detected
+B2_10_4-guanidinobutyraldehyde,B2,HIS68,6.602,aldehyde detected
+B2_10_4-guanidinobutyraldehyde,B2,CYS175,4.96,aldehyde detected
+B2_11_prop-2-enal,B2,CYS47,18.751,aldehyde detected
+B2_11_prop-2-enal,B2,HIS68,17.662,aldehyde detected
+B2_11_prop-2-enal,B2,CYS175,16.416,aldehyde detected
+B2_12_prop-2-ynal,B2,CYS47,32.483,aldehyde detected
+B2_12_prop-2-ynal,B2,HIS68,35.119,aldehyde detected
+B2_12_prop-2-ynal,B2,CYS175,32.67,aldehyde detected
+B2_13_(2E)-but-2-enal,B2,CYS47,19.478,aldehyde detected
+B2_13_(2E)-but-2-enal,B2,HIS68,19.915,aldehyde detected
+B2_13_(2E)-but-2-enal,B2,CYS175,20.169,aldehyde detected
+B2_14_trans-2-Hexenal,B2,CYS47,14.494,aldehyde detected
+B2_14_trans-2-Hexenal,B2,HIS68,14.249,aldehyde detected
+B2_14_trans-2-Hexenal,B2,CYS175,14.329,aldehyde detected
+B2_15_heptanal,B2,CYS47,7.506,aldehyde detected
+B2_15_heptanal,B2,HIS68,7.645,aldehyde detected
+B2_15_heptanal,B2,CYS175,5.945,aldehyde detected
+B2_16_octanaldehyde,B2,CYS47,3.437,aldehyde detected
+B2_16_octanaldehyde,B2,HIS68,3.738,aldehyde detected
+B2_16_octanaldehyde,B2,CYS175,2.308,aldehyde detected
+B2_17_nonanal,B2,CYS47,12.853,aldehyde detected
+B2_17_nonanal,B2,HIS68,13.002,aldehyde detected
+B2_17_nonanal,B2,CYS175,12.231,aldehyde detected
+B2_18_decanal,B2,CYS47,3.292,aldehyde detected
+B2_18_decanal,B2,HIS68,3.566,aldehyde detected
+B2_18_decanal,B2,CYS175,2.328,aldehyde detected
+B2_19_dodecanal,B2,CYS47,4.43,aldehyde detected
+B2_19_dodecanal,B2,HIS68,3.82,aldehyde detected
+B2_19_dodecanal,B2,CYS175,3.161,aldehyde detected
+B2_1_formaldehyde,B2,CYS47,25.857,aldehyde detected
+B2_1_formaldehyde,B2,HIS68,24.027,aldehyde detected
+B2_1_formaldehyde,B2,CYS175,23.078,aldehyde detected
+B2_20_Citral,B2,CYS47,19.946,aldehyde detected
+B2_20_Citral,B2,HIS68,20.472,aldehyde detected
+B2_20_Citral,B2,CYS175,20.561,aldehyde detected
+B2_22_trans-2-Octenal,B2,CYS47,17.462,aldehyde detected
+B2_22_trans-2-Octenal,B2,HIS68,17.845,aldehyde detected
+B2_22_trans-2-Octenal,B2,CYS175,16.979,aldehyde detected
+B2_23_4-Hydroxynonenal,B2,CYS47,22.904,aldehyde detected
+B2_23_4-Hydroxynonenal,B2,CYS47,26.727,aldehyde detected
+B2_23_4-Hydroxynonenal,B2,HIS68,23.528,aldehyde detected
+B2_23_4-Hydroxynonenal,B2,HIS68,27.276,aldehyde detected
+B2_23_4-Hydroxynonenal,B2,CYS175,23.235,aldehyde detected
+B2_23_4-Hydroxynonenal,B2,CYS175,26.963,aldehyde detected
+B2_24_Tetradecanal,B2,CYS47,3.258,aldehyde detected
+B2_24_Tetradecanal,B2,HIS68,4.305,aldehyde detected
+B2_24_Tetradecanal,B2,CYS175,2.296,aldehyde detected
+B2_25_hexadecanal,B2,CYS47,2.158,aldehyde detected
+B2_25_hexadecanal,B2,HIS68,4.14,aldehyde detected
+B2_25_hexadecanal,B2,CYS175,2.662,aldehyde detected
+B2_26_trans-2-hexadecenal,B2,CYS47,33.316,aldehyde detected
+B2_26_trans-2-hexadecenal,B2,HIS68,35.207,aldehyde detected
+B2_26_trans-2-hexadecenal,B2,CYS175,34.427,aldehyde detected
+B2_27_Benzaldehyde,B2,CYS47,22.516,aldehyde detected
+B2_27_Benzaldehyde,B2,HIS68,23.088,aldehyde detected
+B2_27_Benzaldehyde,B2,CYS175,22.876,aldehyde detected
+B2_28_Phenylacetaldehyde,B2,CYS47,19.752,aldehyde detected
+B2_28_Phenylacetaldehyde,B2,HIS68,19.819,aldehyde detected
+B2_28_Phenylacetaldehyde,B2,CYS175,18.813,aldehyde detected
+B2_29_Salicylaldehyde,B2,CYS47,17.498,aldehyde detected
+B2_29_Salicylaldehyde,B2,CYS47,19.433,aldehyde detected
+B2_29_Salicylaldehyde,B2,HIS68,17.713,aldehyde detected
+B2_29_Salicylaldehyde,B2,HIS68,19.912,aldehyde detected
+B2_29_Salicylaldehyde,B2,CYS175,17.968,aldehyde detected
+B2_29_Salicylaldehyde,B2,CYS175,20.124,aldehyde detected
+B2_2_acetaldehyde,B2,CYS47,9.157,aldehyde detected
+B2_2_acetaldehyde,B2,HIS68,12.675,aldehyde detected
+B2_2_acetaldehyde,B2,CYS175,12.532,aldehyde detected
+"B2_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",B2,CYS47,25.888,aldehyde detected
+"B2_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",B2,CYS47,25.254,aldehyde detected
+"B2_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",B2,CYS47,23.527,aldehyde detected
+"B2_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",B2,HIS68,26.171,aldehyde detected
+"B2_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",B2,HIS68,25.505,aldehyde detected
+"B2_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",B2,HIS68,23.792,aldehyde detected
+"B2_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",B2,CYS175,24.182,aldehyde detected
+"B2_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",B2,CYS175,23.652,aldehyde detected
+"B2_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",B2,CYS175,21.294,aldehyde detected
+"B2_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",B2,CYS47,20.92,aldehyde detected
+"B2_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",B2,HIS68,20.495,aldehyde detected
+"B2_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",B2,CYS175,17.853,aldehyde detected
+B2_32_9-cis-Retinal,B2,CYS47,3.23,aldehyde detected
+B2_32_9-cis-Retinal,B2,HIS68,4.335,aldehyde detected
+B2_32_9-cis-Retinal,B2,CYS175,2.254,aldehyde detected
+B2_33_11-cis-Retinol,B2,CYS47,1.965,aldehyde detected
+B2_33_11-cis-Retinol,B2,HIS68,4.113,aldehyde detected
+B2_33_11-cis-Retinol,B2,CYS175,3.05,aldehyde detected
+B2_34_4-hydroxy-2-nonenal,B2,CYS47,10.674,aldehyde detected
+B2_34_4-hydroxy-2-nonenal,B2,CYS47,7.409,aldehyde detected
+B2_34_4-hydroxy-2-nonenal,B2,HIS68,11.003,aldehyde detected
+B2_34_4-hydroxy-2-nonenal,B2,HIS68,7.707,aldehyde detected
+B2_34_4-hydroxy-2-nonenal,B2,CYS175,9.919,aldehyde detected
+B2_34_4-hydroxy-2-nonenal,B2,CYS175,6.165,aldehyde detected
+B2_35_Cinnamaldehyde,B2,CYS47,17.303,aldehyde detected
+B2_35_Cinnamaldehyde,B2,HIS68,16.964,aldehyde detected
+B2_35_Cinnamaldehyde,B2,CYS175,17.272,aldehyde detected
+B2_36_3-(4-Isopropylphenyl)-2-methylpropanal,B2,CYS47,14.911,aldehyde detected
+B2_36_3-(4-Isopropylphenyl)-2-methylpropanal,B2,HIS68,17.735,aldehyde detected
+B2_36_3-(4-Isopropylphenyl)-2-methylpropanal,B2,CYS175,18.562,aldehyde detected
+B2_37_thiobenzaldehyde,B2,CYS47,11.694,closest C (fallback)
+B2_37_thiobenzaldehyde,B2,HIS68,10.508,closest C (fallback)
+B2_37_thiobenzaldehyde,B2,CYS175,11.596,closest C (fallback)
+"B2_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",B2,CYS47,16.609,aldehyde detected
+"B2_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",B2,CYS47,17.864,aldehyde detected
+"B2_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",B2,CYS47,17.797,aldehyde detected
+"B2_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",B2,CYS47,17.756,aldehyde detected
+"B2_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",B2,HIS68,17.218,aldehyde detected
+"B2_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",B2,HIS68,18.419,aldehyde detected
+"B2_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",B2,HIS68,18.038,aldehyde detected
+"B2_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",B2,HIS68,17.886,aldehyde detected
+"B2_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",B2,CYS175,17.34,aldehyde detected
+"B2_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",B2,CYS175,18.693,aldehyde detected
+"B2_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",B2,CYS175,17.985,aldehyde detected
+"B2_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",B2,CYS175,17.622,aldehyde detected
+B2_39_4-nitrobenzaldehyde,B2,CYS47,21.317,aldehyde detected
+B2_39_4-nitrobenzaldehyde,B2,HIS68,21.745,aldehyde detected
+B2_39_4-nitrobenzaldehyde,B2,CYS175,21.798,aldehyde detected
+B2_3_propylaldehyde,B2,CYS47,30.166,aldehyde detected
+B2_3_propylaldehyde,B2,HIS68,31.805,aldehyde detected
+B2_3_propylaldehyde,B2,CYS175,31.234,aldehyde detected
+B2_40_Furan-2-carbaldehyde,B2,CYS47,18.448,aldehyde detected
+B2_40_Furan-2-carbaldehyde,B2,HIS68,19.047,aldehyde detected
+B2_40_Furan-2-carbaldehyde,B2,CYS175,19.368,aldehyde detected
+B2_41_Indole-3-acetaldehyde,B2,CYS47,15.502,aldehyde detected
+B2_41_Indole-3-acetaldehyde,B2,HIS68,15.421,aldehyde detected
+B2_41_Indole-3-acetaldehyde,B2,CYS175,14.719,aldehyde detected
+B2_42_Glutamate-5-semialdehyde,B2,CYS47,17.337,aldehyde detected
+B2_42_Glutamate-5-semialdehyde,B2,HIS68,16.531,aldehyde detected
+B2_42_Glutamate-5-semialdehyde,B2,CYS175,14.637,aldehyde detected
+B2_43_Glutamate-1-semialdehyde,B2,CYS47,25.714,aldehyde detected
+B2_43_Glutamate-1-semialdehyde,B2,HIS68,24.495,aldehyde detected
+B2_43_Glutamate-1-semialdehyde,B2,CYS175,23.045,aldehyde detected
+B2_44_glutarate semialdehyde,B2,CYS47,6.041,aldehyde detected
+B2_44_glutarate semialdehyde,B2,HIS68,8.951,aldehyde detected
+B2_44_glutarate semialdehyde,B2,CYS175,8.86,aldehyde detected
+B2_45_adipate semialdehyde,B2,CYS47,7.246,aldehyde detected
+B2_45_adipate semialdehyde,B2,HIS68,7.422,aldehyde detected
+B2_45_adipate semialdehyde,B2,CYS175,5.961,aldehyde detected
+B2_46_Succinic semialdehyde,B2,CYS47,17.231,aldehyde detected
+B2_46_Succinic semialdehyde,B2,HIS68,17.579,aldehyde detected
+B2_46_Succinic semialdehyde,B2,CYS175,17.431,aldehyde detected
+B2_47_methylmalonate semialdehyde,B2,CYS47,19.432,aldehyde detected
+B2_47_methylmalonate semialdehyde,B2,HIS68,19.907,aldehyde detected
+B2_47_methylmalonate semialdehyde,B2,CYS175,19.971,aldehyde detected
+B2_48_alpha-aminoadipate semialdehyde,B2,CYS47,6.062,aldehyde detected
+B2_48_alpha-aminoadipate semialdehyde,B2,HIS68,4.289,aldehyde detected
+B2_48_alpha-aminoadipate semialdehyde,B2,CYS175,5.455,aldehyde detected
+B2_49_2-Aminomuconic semialdehyde,B2,CYS47,18.254,aldehyde detected
+B2_49_2-Aminomuconic semialdehyde,B2,HIS68,17.113,aldehyde detected
+B2_49_2-Aminomuconic semialdehyde,B2,CYS175,15.502,aldehyde detected
+B2_4_malonaldehyde,B2,CYS47,13.08,aldehyde detected
+B2_4_malonaldehyde,B2,CYS47,12.86,aldehyde detected
+B2_4_malonaldehyde,B2,HIS68,16.723,aldehyde detected
+B2_4_malonaldehyde,B2,HIS68,16.426,aldehyde detected
+B2_4_malonaldehyde,B2,CYS175,16.161,aldehyde detected
+B2_4_malonaldehyde,B2,CYS175,16.329,aldehyde detected
+B2_50_10-formyltetrahydrofolate,B2,CYS47,15.269,aldehyde detected
+B2_50_10-formyltetrahydrofolate,B2,CYS47,9.798,aldehyde detected
+B2_50_10-formyltetrahydrofolate,B2,CYS47,12.787,aldehyde detected
+B2_50_10-formyltetrahydrofolate,B2,HIS68,15.895,aldehyde detected
+B2_50_10-formyltetrahydrofolate,B2,HIS68,9.696,aldehyde detected
+B2_50_10-formyltetrahydrofolate,B2,HIS68,11.367,aldehyde detected
+B2_50_10-formyltetrahydrofolate,B2,CYS175,15.422,aldehyde detected
+B2_50_10-formyltetrahydrofolate,B2,CYS175,9.207,aldehyde detected
+B2_50_10-formyltetrahydrofolate,B2,CYS175,12.583,aldehyde detected
+B2_51_6R-Tetrahydrofolic acid,B2,CYS47,11.18,aldehyde detected
+B2_51_6R-Tetrahydrofolic acid,B2,CYS47,5.289,aldehyde detected
+B2_51_6R-Tetrahydrofolic acid,B2,HIS68,10.962,aldehyde detected
+B2_51_6R-Tetrahydrofolic acid,B2,HIS68,8.474,aldehyde detected
+B2_51_6R-Tetrahydrofolic acid,B2,CYS175,10.064,aldehyde detected
+B2_51_6R-Tetrahydrofolic acid,B2,CYS175,7.696,aldehyde detected
+B2_52_Triose phosphate,B2,CYS47,18.584,aldehyde detected
+B2_52_Triose phosphate,B2,CYS47,17.319,aldehyde detected
+B2_52_Triose phosphate,B2,CYS47,16.73,aldehyde detected
+B2_52_Triose phosphate,B2,HIS68,18.64,aldehyde detected
+B2_52_Triose phosphate,B2,HIS68,17.345,aldehyde detected
+B2_52_Triose phosphate,B2,HIS68,16.495,aldehyde detected
+B2_52_Triose phosphate,B2,CYS175,18.965,aldehyde detected
+B2_52_Triose phosphate,B2,CYS175,17.831,aldehyde detected
+B2_52_Triose phosphate,B2,CYS175,16.987,aldehyde detected
+B2_53_Pyridoxal phosphate,B2,CYS47,12.789,aldehyde detected
+B2_53_Pyridoxal phosphate,B2,CYS47,15.71,aldehyde detected
+B2_53_Pyridoxal phosphate,B2,CYS47,14.396,aldehyde detected
+B2_53_Pyridoxal phosphate,B2,HIS68,16.252,aldehyde detected
+B2_53_Pyridoxal phosphate,B2,HIS68,18.983,aldehyde detected
+B2_53_Pyridoxal phosphate,B2,HIS68,17.634,aldehyde detected
+B2_53_Pyridoxal phosphate,B2,CYS175,15.989,aldehyde detected
+B2_53_Pyridoxal phosphate,B2,CYS175,18.662,aldehyde detected
+B2_53_Pyridoxal phosphate,B2,CYS175,17.684,aldehyde detected
+B2_54_Methanol,B2,CYS47,8.984,aldehyde detected
+B2_54_Methanol,B2,HIS68,8.944,aldehyde detected
+B2_54_Methanol,B2,CYS175,7.943,aldehyde detected
+B2_55_Ethanol,B2,CYS47,7.805,aldehyde detected
+B2_55_Ethanol,B2,HIS68,11.397,aldehyde detected
+B2_55_Ethanol,B2,CYS175,11.089,aldehyde detected
+B2_56_S-hydroxy-methylglutathione,B2,CYS47,24.214,aldehyde detected
+B2_56_S-hydroxy-methylglutathione,B2,CYS47,23.712,aldehyde detected
+B2_56_S-hydroxy-methylglutathione,B2,CYS47,18.932,aldehyde detected
+B2_56_S-hydroxy-methylglutathione,B2,HIS68,24.753,aldehyde detected
+B2_56_S-hydroxy-methylglutathione,B2,HIS68,24.021,aldehyde detected
+B2_56_S-hydroxy-methylglutathione,B2,HIS68,19.281,aldehyde detected
+B2_56_S-hydroxy-methylglutathione,B2,CYS175,23.99,aldehyde detected
+B2_56_S-hydroxy-methylglutathione,B2,CYS175,22.922,aldehyde detected
+B2_56_S-hydroxy-methylglutathione,B2,CYS175,18.588,aldehyde detected
+B2_57_S-3-oxopropylglutathione,B2,CYS47,9.897,aldehyde detected
+B2_57_S-3-oxopropylglutathione,B2,CYS47,6.85,aldehyde detected
+B2_57_S-3-oxopropylglutathione,B2,CYS47,6.89,aldehyde detected
+B2_57_S-3-oxopropylglutathione,B2,HIS68,9.93,aldehyde detected
+B2_57_S-3-oxopropylglutathione,B2,HIS68,6.811,aldehyde detected
+B2_57_S-3-oxopropylglutathione,B2,HIS68,4.813,aldehyde detected
+B2_57_S-3-oxopropylglutathione,B2,CYS175,9.342,aldehyde detected
+B2_57_S-3-oxopropylglutathione,B2,CYS175,5.7,aldehyde detected
+B2_57_S-3-oxopropylglutathione,B2,CYS175,6.798,aldehyde detected
+B2_58_S-(4-oxobutan-2-yl)glutathione,B2,CYS47,23.809,aldehyde detected
+B2_58_S-(4-oxobutan-2-yl)glutathione,B2,CYS47,23.009,aldehyde detected
+B2_58_S-(4-oxobutan-2-yl)glutathione,B2,CYS47,16.636,aldehyde detected
+B2_58_S-(4-oxobutan-2-yl)glutathione,B2,HIS68,24.236,aldehyde detected
+B2_58_S-(4-oxobutan-2-yl)glutathione,B2,HIS68,23.247,aldehyde detected
+B2_58_S-(4-oxobutan-2-yl)glutathione,B2,HIS68,16.99,aldehyde detected
+B2_58_S-(4-oxobutan-2-yl)glutathione,B2,CYS175,23.595,aldehyde detected
+B2_58_S-(4-oxobutan-2-yl)glutathione,B2,CYS175,22.232,aldehyde detected
+B2_58_S-(4-oxobutan-2-yl)glutathione,B2,CYS175,16.152,aldehyde detected
+B2_59_4-Hydroxynonenal_glutathione,B2,CYS47,17.601,aldehyde detected
+B2_59_4-Hydroxynonenal_glutathione,B2,CYS47,15.979,aldehyde detected
+B2_59_4-Hydroxynonenal_glutathione,B2,HIS68,17.693,aldehyde detected
+B2_59_4-Hydroxynonenal_glutathione,B2,HIS68,15.94,aldehyde detected
+B2_59_4-Hydroxynonenal_glutathione,B2,CYS175,17.443,aldehyde detected
+B2_59_4-Hydroxynonenal_glutathione,B2,CYS175,15.207,aldehyde detected
+B2_5_butyraldehyde,B2,CYS47,19.657,aldehyde detected
+B2_5_butyraldehyde,B2,HIS68,19.396,aldehyde detected
+B2_5_butyraldehyde,B2,CYS175,17.83,aldehyde detected
+B2_60_S-Formylglutathione,B2,CYS47,28.71,aldehyde detected
+B2_60_S-Formylglutathione,B2,CYS47,25.196,aldehyde detected
+B2_60_S-Formylglutathione,B2,CYS47,26.51,aldehyde detected
+B2_60_S-Formylglutathione,B2,HIS68,29.287,aldehyde detected
+B2_60_S-Formylglutathione,B2,HIS68,25.783,aldehyde detected
+B2_60_S-Formylglutathione,B2,HIS68,26.801,aldehyde detected
+B2_60_S-Formylglutathione,B2,CYS175,29.133,aldehyde detected
+B2_60_S-Formylglutathione,B2,CYS175,25.65,aldehyde detected
+B2_60_S-Formylglutathione,B2,CYS175,26.181,aldehyde detected
+B2_6_amylaldehyde,B2,CYS47,13.647,aldehyde detected
+B2_6_amylaldehyde,B2,HIS68,17.087,aldehyde detected
+B2_6_amylaldehyde,B2,CYS175,16.705,aldehyde detected
+B2_7_glutaraldehyde,B2,CYS47,19.459,aldehyde detected
+B2_7_glutaraldehyde,B2,CYS47,17.022,aldehyde detected
+B2_7_glutaraldehyde,B2,HIS68,19.964,aldehyde detected
+B2_7_glutaraldehyde,B2,HIS68,16.74,aldehyde detected
+B2_7_glutaraldehyde,B2,CYS175,20.03,aldehyde detected
+B2_7_glutaraldehyde,B2,CYS175,17.233,aldehyde detected
+B2_8_hexanal,B2,CYS47,9.509,aldehyde detected
+B2_8_hexanal,B2,HIS68,13.073,aldehyde detected
+B2_8_hexanal,B2,CYS175,13.053,aldehyde detected
+B2_9_2-hydroxypropionaldehyde,B2,CYS47,11.628,aldehyde detected
+B2_9_2-hydroxypropionaldehyde,B2,CYS47,12.796,aldehyde detected
+B2_9_2-hydroxypropionaldehyde,B2,HIS68,11.79,aldehyde detected
+B2_9_2-hydroxypropionaldehyde,B2,HIS68,12.861,aldehyde detected
+B2_9_2-hydroxypropionaldehyde,B2,CYS175,10.992,aldehyde detected
+B2_9_2-hydroxypropionaldehyde,B2,CYS175,12.297,aldehyde detected

@@ -1,0 +1,421 @@
+complex_name,dG_kcal_mol,status
+A15-new-ALDH7A1_10_4-guanidinobutyraldehyde,-5.28,OK
+A15-new-ALDH7A1_11_prop-2-enal,-5.62,OK
+A15-new-ALDH7A1_12_prop-2-ynal,-5.91,OK
+A15-new-ALDH7A1_13_(2E)-but-2-enal,-6.02,OK
+A15-new-ALDH7A1_14_trans-2-Hexenal,-6.37,OK
+A15-new-ALDH7A1_15_heptanal,-6.92,OK
+A15-new-ALDH7A1_16_octanaldehyde,-7.24,OK
+A15-new-ALDH7A1_17_nonanal,-7.17,OK
+A15-new-ALDH7A1_18_decanal,-7.67,OK
+A15-new-ALDH7A1_19_dodecanal,-8.14,OK
+A15-new-ALDH7A1_1_formaldehyde,-5.29,OK
+A15-new-ALDH7A1_20_Citral,-7.46,OK
+A15-new-ALDH7A1_21_cis-2-Octenal,,merge_failed
+A15-new-ALDH7A1_22_trans-2-Octenal,-6.52,OK
+A15-new-ALDH7A1_23_4-Hydroxynonenal,-5.8,OK
+A15-new-ALDH7A1_24_Tetradecanal,-8.39,OK
+A15-new-ALDH7A1_25_hexadecanal,-8.02,OK
+A15-new-ALDH7A1_26_trans-2-hexadecenal,-8.38,OK
+A15-new-ALDH7A1_27_Benzaldehyde,-6.87,OK
+A15-new-ALDH7A1_28_Phenylacetaldehyde,-6.36,OK
+A15-new-ALDH7A1_29_Salicylaldehyde,-6.72,OK
+A15-new-ALDH7A1_2_acetaldehyde,-5.46,OK
+"A15-new-ALDH7A1_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",-6.86,OK
+"A15-new-ALDH7A1_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",-8.94,OK
+A15-new-ALDH7A1_32_9-cis-Retinal,-9.11,OK
+A15-new-ALDH7A1_33_11-cis-Retinol,-9.2,OK
+A15-new-ALDH7A1_34_4-hydroxy-2-nonenal,-6.87,OK
+A15-new-ALDH7A1_35_Cinnamaldehyde,-7.16,OK
+A15-new-ALDH7A1_36_3-(4-Isopropylphenyl)-2-methylpropanal,-6.87,OK
+A15-new-ALDH7A1_37_thiobenzaldehyde,-6.71,OK
+"A15-new-ALDH7A1_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-6.17,OK
+A15-new-ALDH7A1_39_4-nitrobenzaldehyde,-6.37,OK
+A15-new-ALDH7A1_3_propylaldehyde,-5.94,OK
+A15-new-ALDH7A1_40_Furan-2-carbaldehyde,-7.42,OK
+A15-new-ALDH7A1_41_Indole-3-acetaldehyde,-7.2,OK
+A15-new-ALDH7A1_42_Glutamate-5-semialdehyde,-6.26,OK
+A15-new-ALDH7A1_43_Glutamate-1-semialdehyde,-5.95,OK
+A15-new-ALDH7A1_44_glutarate semialdehyde,-6.49,OK
+A15-new-ALDH7A1_45_adipate semialdehyde,-6.58,OK
+A15-new-ALDH7A1_46_Succinic semialdehyde,-6.09,OK
+A15-new-ALDH7A1_47_methylmalonate semialdehyde,-5.53,OK
+A15-new-ALDH7A1_48_alpha-aminoadipate semialdehyde,-6.24,OK
+A15-new-ALDH7A1_49_2-Aminomuconic semialdehyde,-6.34,OK
+A15-new-ALDH7A1_4_malonaldehyde,-5.74,OK
+A15-new-ALDH7A1_50_10-formyltetrahydrofolate,-7.92,OK
+A15-new-ALDH7A1_51_6R-Tetrahydrofolic acid,-6.55,OK
+A15-new-ALDH7A1_52_Triose phosphate,-5.79,OK
+A15-new-ALDH7A1_53_Pyridoxal phosphate,-6.55,OK
+A15-new-ALDH7A1_54_Methanol,-5.45,OK
+A15-new-ALDH7A1_55_Ethanol,-5.66,OK
+A15-new-ALDH7A1_56_S-hydroxy-methylglutathione,-7.25,OK
+A15-new-ALDH7A1_57_S-3-oxopropylglutathione,-7.64,OK
+A15-new-ALDH7A1_58_S-(4-oxobutan-2-yl)glutathione,-7.23,OK
+A15-new-ALDH7A1_59_4-Hydroxynonenal_glutathione,-8.95,OK
+A15-new-ALDH7A1_5_butyraldehyde,-6.25,OK
+A15-new-ALDH7A1_60_S-Formylglutathione,-7.26,OK
+A15-new-ALDH7A1_6_amylaldehyde,-6.35,OK
+A15-new-ALDH7A1_7_glutaraldehyde,-6.69,OK
+A15-new-ALDH7A1_8_hexanal,-6.73,OK
+A15-new-ALDH7A1_9_2-hydroxypropionaldehyde,-5.76,OK
+A16_10_4-guanidinobutyraldehyde,-5.64,OK
+A16_11_prop-2-enal,-5.33,OK
+A16_12_prop-2-ynal,-5.86,OK
+A16_13_(2E)-but-2-enal,-6.29,OK
+A16_14_trans-2-Hexenal,-6.3,OK
+A16_15_heptanal,-7.2,OK
+A16_16_octanaldehyde,-7.41,OK
+A16_17_nonanal,-7.69,OK
+A16_18_decanal,-7.68,OK
+A16_19_dodecanal,-8.47,OK
+A16_1_formaldehyde,-5.27,OK
+A16_20_Citral,-7.12,OK
+A16_21_cis-2-Octenal,,merge_failed
+A16_22_trans-2-Octenal,-7.26,OK
+A16_23_4-Hydroxynonenal,-7.47,OK
+A16_24_Tetradecanal,-8.89,OK
+A16_25_hexadecanal,-9.12,OK
+A16_26_trans-2-hexadecenal,-9.17,OK
+A16_27_Benzaldehyde,-6.41,OK
+A16_28_Phenylacetaldehyde,-6.68,OK
+A16_29_Salicylaldehyde,-6.21,OK
+A16_2_acetaldehyde,-5.6,OK
+"A16_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",-5.96,OK
+"A16_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",-9.51,OK
+A16_32_9-cis-Retinal,-10.27,OK
+A16_33_11-cis-Retinol,-10.37,OK
+A16_34_4-hydroxy-2-nonenal,-7.44,OK
+A16_35_Cinnamaldehyde,-6.25,OK
+A16_36_3-(4-Isopropylphenyl)-2-methylpropanal,-8.12,OK
+A16_37_thiobenzaldehyde,-6.18,OK
+"A16_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-6.07,OK
+A16_39_4-nitrobenzaldehyde,-6.02,OK
+A16_3_propylaldehyde,-5.83,OK
+A16_40_Furan-2-carbaldehyde,-6.91,OK
+A16_41_Indole-3-acetaldehyde,-6.33,OK
+A16_42_Glutamate-5-semialdehyde,-6.16,OK
+A16_43_Glutamate-1-semialdehyde,-6.45,OK
+A16_44_glutarate semialdehyde,-6.48,OK
+A16_45_adipate semialdehyde,-6.74,OK
+A16_46_Succinic semialdehyde,-6.28,OK
+A16_47_methylmalonate semialdehyde,-6.3,OK
+A16_48_alpha-aminoadipate semialdehyde,-6.61,OK
+A16_49_2-Aminomuconic semialdehyde,-5.86,OK
+A16_4_malonaldehyde,-5.87,OK
+A16_50_10-formyltetrahydrofolate,-7.83,OK
+A16_51_6R-Tetrahydrofolic acid,,OK
+A16_52_Triose phosphate,-6.02,OK
+A16_53_Pyridoxal phosphate,-6.72,OK
+A16_54_Methanol,-5.47,OK
+A16_55_Ethanol,-5.52,OK
+A16_56_S-hydroxy-methylglutathione,-7.51,OK
+A16_57_S-3-oxopropylglutathione,-8.14,OK
+A16_58_S-(4-oxobutan-2-yl)glutathione,-8.53,OK
+A16_59_4-Hydroxynonenal_glutathione,-8.81,OK
+A16_5_butyraldehyde,-6.24,OK
+A16_60_S-Formylglutathione,-7.37,OK
+A16_6_amylaldehyde,-6.53,OK
+A16_7_glutaraldehyde,-5.73,OK
+A16_8_hexanal,-6.74,OK
+A16_9_2-hydroxypropionaldehyde,-6.07,OK
+A17-new-ALDH9A1_10_4-guanidinobutyraldehyde,-5.41,OK
+A17-new-ALDH9A1_11_prop-2-enal,-5.7,OK
+A17-new-ALDH9A1_12_prop-2-ynal,-5.94,OK
+A17-new-ALDH9A1_13_(2E)-but-2-enal,-6.1,OK
+A17-new-ALDH9A1_14_trans-2-Hexenal,-6.45,OK
+A17-new-ALDH9A1_15_heptanal,-6.8,OK
+A17-new-ALDH9A1_16_octanaldehyde,-7.03,OK
+A17-new-ALDH9A1_17_nonanal,-7.29,OK
+A17-new-ALDH9A1_18_decanal,-7.52,OK
+A17-new-ALDH9A1_19_dodecanal,-7.75,OK
+A17-new-ALDH9A1_1_formaldehyde,-5.22,OK
+A17-new-ALDH9A1_20_Citral,-7.31,OK
+A17-new-ALDH9A1_21_cis-2-Octenal,,merge_failed
+A17-new-ALDH9A1_22_trans-2-Octenal,-6.96,OK
+A17-new-ALDH9A1_23_4-Hydroxynonenal,-7.31,OK
+A17-new-ALDH9A1_24_Tetradecanal,-8.09,OK
+A17-new-ALDH9A1_25_hexadecanal,-8.95,OK
+A17-new-ALDH9A1_26_trans-2-hexadecenal,-8.96,OK
+A17-new-ALDH9A1_27_Benzaldehyde,-5.86,OK
+A17-new-ALDH9A1_28_Phenylacetaldehyde,-6.32,OK
+A17-new-ALDH9A1_29_Salicylaldehyde,-6.42,OK
+A17-new-ALDH9A1_2_acetaldehyde,-5.57,OK
+"A17-new-ALDH9A1_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",-6.14,OK
+"A17-new-ALDH9A1_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",-9.91,OK
+A17-new-ALDH9A1_32_9-cis-Retinal,-9.74,OK
+A17-new-ALDH9A1_33_11-cis-Retinol,-9.05,OK
+A17-new-ALDH9A1_34_4-hydroxy-2-nonenal,-7.29,OK
+A17-new-ALDH9A1_35_Cinnamaldehyde,-6.48,OK
+A17-new-ALDH9A1_36_3-(4-Isopropylphenyl)-2-methylpropanal,-8.37,OK
+A17-new-ALDH9A1_37_thiobenzaldehyde,-6.08,OK
+"A17-new-ALDH9A1_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-6.17,OK
+A17-new-ALDH9A1_39_4-nitrobenzaldehyde,-5.85,OK
+A17-new-ALDH9A1_3_propylaldehyde,-5.91,OK
+A17-new-ALDH9A1_40_Furan-2-carbaldehyde,-7.11,OK
+A17-new-ALDH9A1_41_Indole-3-acetaldehyde,-6.58,OK
+A17-new-ALDH9A1_42_Glutamate-5-semialdehyde,-6.33,OK
+A17-new-ALDH9A1_43_Glutamate-1-semialdehyde,-5.4,OK
+A17-new-ALDH9A1_44_glutarate semialdehyde,-6.43,OK
+A17-new-ALDH9A1_45_adipate semialdehyde,-6.56,OK
+A17-new-ALDH9A1_46_Succinic semialdehyde,-6.09,OK
+A17-new-ALDH9A1_47_methylmalonate semialdehyde,-6.16,OK
+A17-new-ALDH9A1_48_alpha-aminoadipate semialdehyde,-6.61,OK
+A17-new-ALDH9A1_49_2-Aminomuconic semialdehyde,-5.78,OK
+A17-new-ALDH9A1_4_malonaldehyde,-5.66,OK
+A17-new-ALDH9A1_50_10-formyltetrahydrofolate,,OK
+A17-new-ALDH9A1_51_6R-Tetrahydrofolic acid,-7.83,OK
+A17-new-ALDH9A1_52_Triose phosphate,-5.69,OK
+A17-new-ALDH9A1_53_Pyridoxal phosphate,-6.55,OK
+A17-new-ALDH9A1_54_Methanol,-5.43,OK
+A17-new-ALDH9A1_55_Ethanol,-5.7,OK
+A17-new-ALDH9A1_56_S-hydroxy-methylglutathione,-7.8,OK
+A17-new-ALDH9A1_57_S-3-oxopropylglutathione,-7.97,OK
+A17-new-ALDH9A1_58_S-(4-oxobutan-2-yl)glutathione,-8.23,OK
+A17-new-ALDH9A1_59_4-Hydroxynonenal_glutathione,-9.53,OK
+A17-new-ALDH9A1_5_butyraldehyde,-6.17,OK
+A17-new-ALDH9A1_60_S-Formylglutathione,-7.12,OK
+A17-new-ALDH9A1_6_amylaldehyde,-6.26,OK
+A17-new-ALDH9A1_7_glutaraldehyde,-6.4,OK
+A17-new-ALDH9A1_8_hexanal,-6.6,OK
+A17-new-ALDH9A1_9_2-hydroxypropionaldehyde,-5.91,OK
+A18_10_4-guanidinobutyraldehyde,-4.68,OK
+A18_11_prop-2-enal,-5.45,OK
+A18_12_prop-2-ynal,-6.03,OK
+A18_13_(2E)-but-2-enal,-5.91,OK
+A18_14_trans-2-Hexenal,-6.8,OK
+A18_15_heptanal,-6.95,OK
+A18_16_octanaldehyde,-7.42,OK
+A18_17_nonanal,-7.56,OK
+A18_18_decanal,-7.58,OK
+A18_19_dodecanal,-8.53,OK
+A18_1_formaldehyde,-5.44,OK
+A18_20_Citral,-8.12,OK
+A18_21_cis-2-Octenal,,merge_failed
+A18_22_trans-2-Octenal,-7.49,OK
+A18_23_4-Hydroxynonenal,-7.24,OK
+A18_24_Tetradecanal,-8.95,OK
+A18_25_hexadecanal,-9.92,OK
+A18_26_trans-2-hexadecenal,-9.72,OK
+A18_27_Benzaldehyde,-7.39,OK
+A18_28_Phenylacetaldehyde,-6.97,OK
+A18_29_Salicylaldehyde,-6.8,OK
+A18_2_acetaldehyde,-5.62,OK
+"A18_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",,no_sdf
+"A18_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",-10.54,OK
+A18_32_9-cis-Retinal,-10.68,OK
+A18_33_11-cis-Retinol,-10.5,OK
+A18_34_4-hydroxy-2-nonenal,-7.57,OK
+A18_35_Cinnamaldehyde,-7.93,OK
+A18_36_3-(4-Isopropylphenyl)-2-methylpropanal,-8.74,OK
+A18_37_thiobenzaldehyde,-6.83,OK
+"A18_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-5.73,OK
+A18_39_4-nitrobenzaldehyde,-6.73,OK
+A18_3_propylaldehyde,-5.81,OK
+A18_40_Furan-2-carbaldehyde,-8.58,OK
+A18_41_Indole-3-acetaldehyde,-7.17,OK
+A18_42_Glutamate-5-semialdehyde,-6.13,OK
+A18_43_Glutamate-1-semialdehyde,-6.13,OK
+A18_44_glutarate semialdehyde,-6.49,OK
+A18_45_adipate semialdehyde,-6.72,OK
+A18_46_Succinic semialdehyde,-6.25,OK
+A18_47_methylmalonate semialdehyde,-5.98,OK
+A18_48_alpha-aminoadipate semialdehyde,-6.21,OK
+A18_49_2-Aminomuconic semialdehyde,-6.02,OK
+A18_4_malonaldehyde,-6.12,OK
+A18_50_10-formyltetrahydrofolate,,no_sdf
+A18_51_6R-Tetrahydrofolic acid,,no_sdf
+A18_52_Triose phosphate,-6.22,OK
+A18_53_Pyridoxal phosphate,-7.25,OK
+A18_54_Methanol,,no_sdf
+A18_55_Ethanol,-5.37,OK
+A18_56_S-hydroxy-methylglutathione,-6.73,OK
+A18_57_S-3-oxopropylglutathione,-7.4,OK
+A18_58_S-(4-oxobutan-2-yl)glutathione,-7.69,OK
+A18_59_4-Hydroxynonenal_glutathione,-8.98,OK
+A18_5_butyraldehyde,-6.21,OK
+A18_60_S-Formylglutathione,-6.74,OK
+A18_6_amylaldehyde,-6.63,OK
+A18_7_glutaraldehyde,-6.53,OK
+A18_8_hexanal,-6.77,OK
+A18_9_2-hydroxypropionaldehyde,-6.04,OK
+A19_10_4-guanidinobutyraldehyde,-5.21,OK
+A19_11_prop-2-enal,-5.92,OK
+A19_12_prop-2-ynal,-5.84,OK
+A19_13_(2E)-but-2-enal,-5.98,OK
+A19_14_trans-2-Hexenal,-6.55,OK
+A19_15_heptanal,-6.63,OK
+A19_16_octanaldehyde,-6.54,OK
+A19_17_nonanal,-7.09,OK
+A19_18_decanal,,merge_failed
+A19_19_dodecanal,-7.19,OK
+A19_1_formaldehyde,-5.32,OK
+A19_20_Citral,,OK
+A19_21_cis-2-Octenal,,merge_failed
+A19_22_trans-2-Octenal,-6.51,OK
+A19_23_4-Hydroxynonenal,-6.41,OK
+A19_24_Tetradecanal,,OK
+A19_25_hexadecanal,-8.27,OK
+A19_26_trans-2-hexadecenal,-7.23,OK
+A19_27_Benzaldehyde,-6.02,OK
+A19_28_Phenylacetaldehyde,-6.46,OK
+A19_29_Salicylaldehyde,-7.25,OK
+A19_2_acetaldehyde,-5.39,OK
+"A19_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",-5.89,OK
+"A19_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",,OK
+A19_32_9-cis-Retinal,-7.61,OK
+A19_33_11-cis-Retinol,-8.92,OK
+A19_34_4-hydroxy-2-nonenal,-5.58,OK
+A19_35_Cinnamaldehyde,-7.35,OK
+A19_36_3-(4-Isopropylphenyl)-2-methylpropanal,-5.81,OK
+A19_37_thiobenzaldehyde,-6.27,OK
+"A19_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-5.91,OK
+A19_39_4-nitrobenzaldehyde,-6.14,OK
+A19_3_propylaldehyde,-5.95,OK
+A19_40_Furan-2-carbaldehyde,-5.46,OK
+A19_41_Indole-3-acetaldehyde,-6.77,OK
+A19_42_Glutamate-5-semialdehyde,-5.56,OK
+A19_43_Glutamate-1-semialdehyde,-5.7,OK
+A19_44_glutarate semialdehyde,-6.39,OK
+A19_45_adipate semialdehyde,-5.47,OK
+A19_46_Succinic semialdehyde,-5.65,OK
+A19_47_methylmalonate semialdehyde,-5.77,OK
+A19_48_alpha-aminoadipate semialdehyde,-5.52,OK
+A19_49_2-Aminomuconic semialdehyde,-6.22,OK
+A19_4_malonaldehyde,-5.35,OK
+A19_50_10-formyltetrahydrofolate,-5.47,OK
+A19_51_6R-Tetrahydrofolic acid,-6.31,OK
+A19_52_Triose phosphate,-6.3,OK
+A19_53_Pyridoxal phosphate,-6.8,OK
+A19_54_Methanol,-5.44,OK
+A19_55_Ethanol,,merge_failed
+A19_56_S-hydroxy-methylglutathione,-6.07,OK
+A19_57_S-3-oxopropylglutathione,-6.56,OK
+A19_58_S-(4-oxobutan-2-yl)glutathione,-7.46,OK
+A19_59_4-Hydroxynonenal_glutathione,-7.33,OK
+A19_5_butyraldehyde,-5.78,OK
+A19_60_S-Formylglutathione,-6.34,OK
+A19_6_amylaldehyde,-5.77,OK
+A19_7_glutaraldehyde,-5.67,OK
+A19_8_hexanal,-6.09,OK
+A19_9_2-hydroxypropionaldehyde,-5.92,OK
+B1_10_4-guanidinobutyraldehyde,-5.89,OK
+B1_11_prop-2-enal,-5.7,OK
+B1_12_prop-2-ynal,-5.43,OK
+B1_13_(2E)-but-2-enal,-5.63,OK
+B1_14_trans-2-Hexenal,-6.54,OK
+B1_15_heptanal,-6.95,OK
+B1_16_octanaldehyde,-7.18,OK
+B1_17_nonanal,-7.48,OK
+B1_18_decanal,-7.49,OK
+B1_19_dodecanal,-8.2,OK
+B1_1_formaldehyde,-5.47,OK
+B1_20_Citral,-7.23,OK
+B1_21_cis-2-Octenal,,merge_failed
+B1_22_trans-2-Octenal,-5.99,OK
+B1_23_4-Hydroxynonenal,-6.79,OK
+B1_24_Tetradecanal,-8.3,OK
+B1_25_hexadecanal,-8.23,OK
+B1_26_trans-2-hexadecenal,-7.31,OK
+B1_27_Benzaldehyde,-6.13,OK
+B1_28_Phenylacetaldehyde,-6.43,OK
+B1_29_Salicylaldehyde,-5.96,OK
+B1_2_acetaldehyde,-5.78,OK
+"B1_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",-5.68,OK
+"B1_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",-8.63,OK
+B1_32_9-cis-Retinal,-7.09,OK
+B1_33_11-cis-Retinol,-8.96,OK
+B1_34_4-hydroxy-2-nonenal,-6.15,OK
+B1_35_Cinnamaldehyde,-6.48,OK
+B1_36_3-(4-Isopropylphenyl)-2-methylpropanal,-8.2,OK
+B1_37_thiobenzaldehyde,-6.45,OK
+"B1_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-5.81,OK
+B1_39_4-nitrobenzaldehyde,-6.8,OK
+B1_3_propylaldehyde,-5.81,OK
+B1_40_Furan-2-carbaldehyde,-6.93,OK
+B1_41_Indole-3-acetaldehyde,-6.31,OK
+B1_42_Glutamate-5-semialdehyde,-5.54,OK
+B1_43_Glutamate-1-semialdehyde,-5.59,OK
+B1_44_glutarate semialdehyde,-6.55,OK
+B1_45_adipate semialdehyde,-6.74,OK
+B1_46_Succinic semialdehyde,-6.3,OK
+B1_47_methylmalonate semialdehyde,-5.79,OK
+B1_48_alpha-aminoadipate semialdehyde,-6.08,OK
+B1_49_2-Aminomuconic semialdehyde,-5.49,OK
+B1_4_malonaldehyde,-5.42,OK
+B1_50_10-formyltetrahydrofolate,-7.12,OK
+B1_51_6R-Tetrahydrofolic acid,-6.64,OK
+B1_52_Triose phosphate,-5.67,OK
+B1_53_Pyridoxal phosphate,-6.97,OK
+B1_54_Methanol,-5.46,OK
+B1_55_Ethanol,-5.4,OK
+B1_56_S-hydroxy-methylglutathione,-5.88,OK
+B1_57_S-3-oxopropylglutathione,-7.73,OK
+B1_58_S-(4-oxobutan-2-yl)glutathione,-6.73,OK
+B1_59_4-Hydroxynonenal_glutathione,-7.52,OK
+B1_5_butyraldehyde,-5.78,OK
+B1_60_S-Formylglutathione,-6.29,OK
+B1_6_amylaldehyde,-5.81,OK
+B1_7_glutaraldehyde,-5.92,OK
+B1_8_hexanal,-6.88,OK
+B1_9_2-hydroxypropionaldehyde,-5.64,OK
+B2_10_4-guanidinobutyraldehyde,-5.11,OK
+B2_11_prop-2-enal,-5.48,OK
+B2_12_prop-2-ynal,-5.65,OK
+B2_13_(2E)-but-2-enal,-5.72,OK
+B2_14_trans-2-Hexenal,-5.96,OK
+B2_15_heptanal,-7.23,OK
+B2_16_octanaldehyde,-6.99,OK
+B2_17_nonanal,-7.15,OK
+B2_18_decanal,-7.31,OK
+B2_19_dodecanal,-7.39,OK
+B2_1_formaldehyde,-5.31,OK
+B2_20_Citral,-7.26,OK
+B2_21_cis-2-Octenal,,merge_failed
+B2_22_trans-2-Octenal,-7.09,OK
+B2_23_4-Hydroxynonenal,-6.46,OK
+B2_24_Tetradecanal,-8.04,OK
+B2_25_hexadecanal,-7.14,OK
+B2_26_trans-2-hexadecenal,-7.1,OK
+B2_27_Benzaldehyde,-6.11,OK
+B2_28_Phenylacetaldehyde,-6.18,OK
+B2_29_Salicylaldehyde,-6.25,OK
+B2_2_acetaldehyde,-5.79,OK
+"B2_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",-6.06,OK
+"B2_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",-7.99,OK
+B2_32_9-cis-Retinal,-10.26,OK
+B2_33_11-cis-Retinol,-10.7,OK
+B2_34_4-hydroxy-2-nonenal,-5.89,OK
+B2_35_Cinnamaldehyde,-7.26,OK
+B2_36_3-(4-Isopropylphenyl)-2-methylpropanal,-7.8,OK
+B2_37_thiobenzaldehyde,-6.75,OK
+"B2_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-6.09,OK
+B2_39_4-nitrobenzaldehyde,-6.6,OK
+B2_3_propylaldehyde,-5.54,OK
+B2_40_Furan-2-carbaldehyde,-6.78,OK
+B2_41_Indole-3-acetaldehyde,-6.36,OK
+B2_42_Glutamate-5-semialdehyde,-5.83,OK
+B2_43_Glutamate-1-semialdehyde,-5.58,OK
+B2_44_glutarate semialdehyde,-6.29,OK
+B2_45_adipate semialdehyde,-6.34,OK
+B2_46_Succinic semialdehyde,-5.71,OK
+B2_47_methylmalonate semialdehyde,-5.7,OK
+B2_48_alpha-aminoadipate semialdehyde,-5.88,OK
+B2_49_2-Aminomuconic semialdehyde,-5.86,OK
+B2_4_malonaldehyde,-5.63,OK
+B2_50_10-formyltetrahydrofolate,-6.72,OK
+B2_51_6R-Tetrahydrofolic acid,,OK
+B2_52_Triose phosphate,-5.57,OK
+B2_53_Pyridoxal phosphate,,OK
+B2_54_Methanol,-5.38,OK
+B2_55_Ethanol,-5.78,OK
+B2_56_S-hydroxy-methylglutathione,-6.35,OK
+B2_57_S-3-oxopropylglutathione,-6.72,OK
+B2_58_S-(4-oxobutan-2-yl)glutathione,-6.86,OK
+B2_59_4-Hydroxynonenal_glutathione,-7.77,OK
+B2_5_butyraldehyde,-5.74,OK
+B2_60_S-Formylglutathione,-5.79,OK
+B2_6_amylaldehyde,-6.42,OK
+B2_7_glutaraldehyde,-5.78,OK
+B2_8_hexanal,-6.56,OK
+B2_9_2-hydroxypropionaldehyde,-5.65,OK
